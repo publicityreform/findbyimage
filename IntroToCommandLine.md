@@ -19,8 +19,6 @@ You enter a command, execute it, and the command is performed. Then you can ente
 
 It is simple and minimalist. It is ubiquitous. Nearly every computer from OS X, Raspberry Pi to web servers, internet devices, routers and robots can be controlled through the command line, and even more devices are being created that can be interacted with that are online (through the so-called "Internet Of Things", which is a nebulous term but is driven on the back of the command line). The commandline is present on devices that don't even have a screen, mouse, internet, et cetera. Some tasks are lightyears faster (or instant) when calling the command from the command line instead of using a specific application or having to find a specific program to download from the internet. If you're working on an old or underpowered computer, this could be a gamechanger that allows you to keep and use your computer rather than letting it become garbage. 
 
-Lastly, writing your own scripts for common commands and procedures is both useful and satisfying, and it can speed up your workflow. Imagine creating a a batch resize program to match your own needs, or many other potential program ideas. As you work through this book, you'll see that all of the projects rely on the command line, but allow flexibility in how you build or potentially alter them.
-
 ### How to Access the Command Line on a Mac
 
 On a Mac you acces the "Terminal" application, located inside the Utilities folder inside the Applications folder on your hard drive. You can also access the terminal from Spotlight, which looks like a magnifying glass in the top right of your menu bar. Another way to access Spotlight is through the default key macro *Command-Space.*
@@ -47,7 +45,7 @@ When you are moving around the computer in your file system with the Terminal, y
 
 This is an important concept because you always have a choice of what path you write when working on the command line. You can specify an exact location or a relative location. **When you don't specify a path, the terminal assumes the location is the directory you are currently inside.**
 
-Some times in this book and online tutorials you'll see something that looks like this: ```path/to/file```. You will never actually type ```path/to```. It simply is trying to indicate that you'll need to replace it with the proper location on your own computer. The Mac Terminal has a cool feature to make this easier for beginners. You can drag a file or folder onto the terminal and it will fill out the exact path. Try dragging a file or folder into your terminal now and you'll see this in action.
+Sometimes in online tutorials you'll see something that looks like this: ```path/to/file```. You will never actually type ```path/to```. It simply is trying to indicate that you'll need to replace it with the proper location on your own computer. The Mac Terminal has a cool feature to make this easier for beginners. You can drag a file or folder onto the terminal and it will fill out the exact path. Try dragging a file or folder into your terminal now and you'll see this in action.
 
 # Your basic terminal commands
 
