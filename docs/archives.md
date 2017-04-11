@@ -4,7 +4,7 @@ title: Archives
 permalink: /archives/
 ---
 
-hello
+
   {% capture site_lang %}{{ site.lang | default: "en" }}{% endcapture %}
 
   <ul class="post-archives">
