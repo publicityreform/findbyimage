@@ -2,7 +2,7 @@
 layout: post
 title:  "Day 1 Notes"
 date:   2017-04-10 21:52:15 -0700
-categories: Notes
+tags: Notes
 ---
 
 safe space / different kinds of knowldege tools
