@@ -6,6 +6,14 @@
 			<link rel="stylesheet" type="text/css" href="/css/main.css">
 		</head>
 		<body>
+			 
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ post.url | prepend: site.github.url }}">{{ post.title }}</a>
+    </li>
+  {% endfor %}
+</ul>
 			
 			<div class="container">
 			
