@@ -1,4 +1,4 @@
-An arbitrary selection of texts related to concepts and theories that come up in a discussion of Art and Machine Learning.
+Reading material to help consider wider concepts and theories relating Art + Machine Learning.
 ------
 Feel free to add pdf's to this directory, or paste links below:
 
