@@ -1,10 +1,7 @@
 Resources
 =========
 
-# Tools
-* [Wekinator](http://www.wekinator.org/)
-
-# Other classes
+# other classes
 * [Workshop ML4A @ Opendot](https://www.youtube.com/watch?v=yHOmMCY589Y) / 01 Why machine learning for artists
 * [ml4a.github.io](https://ml4a.github.io/)
 * [kadenze.com/courses/machine-learning-for-musicians-and-artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
@@ -22,10 +19,10 @@ Resources
 * [machine-learning-is-fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
 * [Emulating Intelligence](https://github.com/learning-gardens/_emulating_intelligence)
 
-# Reading
+# reading
 * An organized list of essays / papers / etc can be found [here](/readings/README.md)
 
-# Videos
+# videos
 * [Alt-AI conference](http://genekogan.com/alt-AI/#watch) by School For Poetic Computation
 
 # creative work / research:
@@ -37,7 +34,7 @@ Resources
 * <a href="https://research.fb.com/">research.fb.com</a><br>
 * <a href="http://www.fastforwardlabs.com/">fast forward labs</a><br>
 
-# libraries / packages:
+# tools / libraries / packages:
 * <a href="https://github.com/floydhub/dl-docker">deep learning docker container</a><br>
 * <a href="https://www.tensorflow.org/">tensorflow</a><br>
 * <a href="http://torch.ch/">torch</a><br>
@@ -77,7 +74,7 @@ Resources
 * <a href="https://github.com/CSTR-Edinburgh/merlin">merlin speech synthesis</a><br>
 * <a href="https://people.eecs.berkeley.edu/~junyanz/">people.eecs.berkeley.edu/~junyanz</a><br>
 
-# lists of resources:
+# other lists of resources:
 * <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">deep-learning</a><br>
 * <a href="https://github.com/jtoy/awesome-tensorflow#github-projects">tensorflow-github-projects</a><br>
 * <a href="https://github.com/josephmisiti/awesome-machine-learning">machine-learning</a><br>
