@@ -63,14 +63,17 @@ In a multilayer type, **Hidden Layer Neurons** each have their own **activation 
 
 # "Recurrent Neural Networks" (RNN)
 
-!(/assets/images/rnn.png)
-RNN
+![RNN](/assets/images/rnn.png)
 
-!(/assets/images/lstm.png)
-LSTM
+RNN (Recurrent Neural Network)
 
-!(/assets/images/gru.png)
-GRU
+![LSTM](/assets/images/lstm.png)
+
+LSTM (Long / Short Term Memory)
+
+![GRU](/assets/images/gru.png)
+
+GRU (Gated Recurrent Units)
 
 used when sequence is important (what came before determines what comes next)
 
