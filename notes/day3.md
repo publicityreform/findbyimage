@@ -78,6 +78,15 @@ GRU (Gated Recurrent Units)
 used when sequence is important (what came before determines what comes next)
 
 can be generalized to include text, audio, video (anything time-based), attention (scanning a scene, etc.)
+
+![RNNgenerate](/assets/images/01-house_generate.gif)
+![RNNread](/assets/images/01-house_read.gif)
+
+Further Reading:
+
+http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+
+http://karpathy.github.io/2015/05/21/rnn-effectiveness/
  
 
 
