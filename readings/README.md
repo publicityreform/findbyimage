@@ -17,17 +17,17 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 # theory / context:
 
-[Alan Turing "Computing Machinery and Intelligence"](http://www.loebner.net/Prizef/TuringArticle.html)
+[Alan Turing _"Computing Machinery and Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
 
-[Hito Steyerl "A Sea of Data: Apophenia and Pattern (Mis-)Recognition"](steyerl.pdf)
+[Hito Steyerl _"A Sea of Data: Apophenia and Pattern (Mis-)Recognition"_](steyerl.pdf)
 
-[Matteo Pasquinelli "Abnormal Encephalization In The Age Of Machine Learning"](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
+[Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
 
-[Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica "Machine Bias"](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
+[Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica _"Machine Bias"_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
-[Kate Crawford "Artificial Intelligence's White Guy Problem"](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=1)
+[Kate Crawford _"Artificial Intelligence's White Guy Problem"_](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=1)
 
 
 # textbooks:
 
-[Ian Goodfellow and Yoshua Bengio and Aaron Courville "Deep Learning"](http://www.deeplearningbook.org/)
+[Ian Goodfellow and Yoshua Bengio and Aaron Courville _"Deep Learning"_](http://www.deeplearningbook.org/)
