@@ -3,7 +3,7 @@ download and install the “docker” applicatin from https://docs.docker.com/en
 
 in terminal, type `docker run hello-world` to see if docker has installed correctly
 
-use docker to get [this deep learning container docker](https://github.com/floydhub/dl-docker) by typing `pull floydhub/dl-docker:cpu`
+use docker to get [this deep learning container docker](https://github.com/floydhub/dl-docker) by typing `docker pull floydhub/dl-docker:cpu`
 
 `mkdir sharedfolder`
 
