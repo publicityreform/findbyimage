@@ -4,7 +4,7 @@ Feel free to add pdf's to this directory, or paste links below:
 
 ***
 
-**technical reading (whitepapers):**
+# technical reading (whitepapers):
 
 [gitxiv.com](http://www.gitxiv.com/)
 
@@ -15,7 +15,7 @@ roadmap: [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Dee
 ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 
-**theory / context:**
+# theory / context:
 
 [Alan Turing "Computing Machinery and Intelligence"](http://www.loebner.net/Prizef/TuringArticle.html)
 
@@ -28,6 +28,6 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 [Kate Crawford "Artificial Intelligence's White Guy Problem"](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=1)
 
 
-**textbooks:**
+# textbooks:
 
 [Ian Goodfellow and Yoshua Bengio and Aaron Courville "Deep Learning"](http://www.deeplearningbook.org/)
