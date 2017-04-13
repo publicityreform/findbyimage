@@ -17,9 +17,15 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 # theory / context:
 
-[Alan Turing _"Computing Machinery and Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
+[Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
 
-[Hito Steyerl _"A Sea of Data: Apophenia and Pattern (Mis-)Recognition"_](steyerl.pdf)
+[Hito Steyerl _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](steyerl.pdf)
+
+[Gilbert Simondon _"Technical Mentality"_](simondon.pdf)
+
+[Friedrich Kittler _"There Is No Software"_](kittler.pdf)
+
+[David Rumelhart _"The Architecture Of Mind: A Connectionist Approach"_](Rumelhart.pdf)
 
 [Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
 
