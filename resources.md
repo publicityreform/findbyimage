@@ -47,12 +47,13 @@ Resources
 * <a href="http://www.wekinator.org/">wekinator</a><br>
 * <a href="http://moa.cms.waikato.ac.nz/">moa</a><br>
 
-# cloud platforms:
-* <a href="https://cloud.google.com/ml-engine/">google ML engine</a><br>
-* <a href="https://aws.amazon.com/machine-learning/">aws ML</a><br>
-* <a href="https://bigml.com/">bigML</a><br>
-* <a href="https://www.floydhub.com/">floydhub</a><br>
-* <a href="http://orange.biolab.si/">orange</a><br>
+# cloud platforms / API's:
+* [google ML engine](https://cloud.google.com/ml-engine/)
+* [aws ML](https://aws.amazon.com/machine-learning/)
+* [bigML](https://bigml.com/)
+* [floydhub](https://www.floydhub.com/)
+* [orange](http://orange.biolab.si/)
+* [IBM Watson](https://www.ibm.com/watson/)
 
 # projects:
 * <a href="https://github.com/affinelayer/pix2pix-tensorflow">pix2pix</a><br>
