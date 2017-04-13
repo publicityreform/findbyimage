@@ -83,10 +83,12 @@ can be generalized to include text, audio, video (anything time-based), attentio
 ![RNNread](/assets/images/01-house_read.gif)
 
 Further Reading:
+- http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+- http://karpathy.github.io/2015/05/21/rnn-effectiveness/
 
-http://colah.github.io/posts/2015-08-Understanding-LSTMs/
+Demos:
+- https://aiexperiments.withgoogle.com/ai-duet/view/
 
-http://karpathy.github.io/2015/05/21/rnn-effectiveness/
  
 
 
