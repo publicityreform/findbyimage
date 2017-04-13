@@ -23,7 +23,7 @@ Students will be expected to collaborate - to share skills and resources; to doc
 
 **White paper presentations** - In-class discussions led by groups of three.
 
-In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. A collection of these papers will be provided on the course website for groups to choose from in advance of their presentations.
+In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. We will be adding to [a collection of white papers](/readings#technical-reading-whitepapers) for groups to choose from in advance of their presentations.
     
 **Studio Project I** - to be completed by each individual student and presented in a mode of the student’s choosing for in-class critique.
 
