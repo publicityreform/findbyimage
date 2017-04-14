@@ -52,12 +52,33 @@ Resources
 * <a href="http://moa.cms.waikato.ac.nz/">moa</a><br>
 
 # cloud platforms / API's:
-* [google ML engine](https://cloud.google.com/ml-engine/)
-* [aws ML](https://aws.amazon.com/machine-learning/)
+most of these are paid services where you need to create an account. usually there is a free tier or pay-per-use option (i.e. free or low cost to use up to a certain number of instances / calls / data over a given time period), which works fine for a test environment, but if you want to deploy to a public site, some budgeting may be required. 
+* [google machine learning](https://cloud.google.com/products/machine-learning/)
+  - [storage / computing / workflow](https://cloud.google.com/ml/)
+  - [job search API](https://cloud.google.com/jobs-api/)
+  - [video analysis](https://cloud.google.com/video-intelligence/)
+  - [image analysis](https://cloud.google.com/vision/)
+  - [speech recognition](https://cloud.google.com/speech/)
+  - [text analysis](https://cloud.google.com/natural-language/)
+  - [translation](https://cloud.google.com/translate/)
+* [aws AI (amazon)](https://aws.amazon.com/amazon-ai)
+  - [Rekognition (image recognition)](https://aws.amazon.com/rekognition/)
+  - [Lex (for building chatbots)](https://aws.amazon.com/lex/)
+  - [Polly (text to speech)](https://aws.amazon.com/polly)
+  - [amazon machine learning](https://aws.amazon.com/machine-learning/)
 * [bigML](https://bigml.com/)
 * [floydhub](https://www.floydhub.com/)
 * [orange](http://orange.biolab.si/)
 * [IBM Watson](https://www.ibm.com/watson/)
+  - translation
+  - "conversation" (for building chatbots)
+  - natural language processing
+  - transcription
+  - image recognition
+  - search / content analysis
+  - tone analysis
+  - "personality insights"
+  
 
 # projects:
 * <a href="https://github.com/affinelayer/pix2pix-tensorflow">pix2pix</a><br>
