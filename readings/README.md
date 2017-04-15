@@ -29,7 +29,7 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
 
-[Anil Bawa-Cavia _"The Enclosure of Reason"_](http://technosphere-magazine.hkw.de/article1/6aefb210-0ee6-11e7-a253-d9923802c14e)
+[Anil Bawa-Cavia _"The Inclosure of Reason"_](http://technosphere-magazine.hkw.de/article1/6aefb210-0ee6-11e7-a253-d9923802c14e)
 
 [Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica _"Machine Bias"_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
