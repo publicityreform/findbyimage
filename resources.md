@@ -78,6 +78,8 @@ most of these are paid services where you need to create an account. usually the
   - search / content analysis
   - tone analysis
   - "personality insights"
+* [API.ai](https://api.ai/)
+  - free chatbot API
   
 
 # projects:
