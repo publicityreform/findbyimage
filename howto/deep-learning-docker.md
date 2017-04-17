@@ -1,3 +1,6 @@
+---
+---
+
 these instructions are for using a docker container to run deep-learning libraries such as torch, tensorflow, caffe, theano, keras, etc. on your own computer, using [terminal](IntroToCommandLine.md) and [git](HowToUseGitHub.md). the reason for using one docker container with all of these libraries is that it simplifies the process of keeping track of conflicting dependencies - for instance if you want to compare a torch implementation of a process with a tensorflow implementation, or if some example code is given in caffe and you don't want to take the time to set up a new install just to try it. if you'd prefer, it's possible to install separate docker containers to run just one of any of these libraries on their own, or to install any of these from scratch (without docker) if you would prefer more customization options, but that's beyond the scope of this document. 
 
 note: these instructions are specific to macOS - there may be some differences in the commands if you are using linux or windows *(please add notes below if you find differences or better methods!)*
