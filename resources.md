@@ -4,8 +4,7 @@ title: Resources
 permalink: /resources/
 ---
 
-# other classes
-* [Workshop ML4A @ Opendot](https://www.youtube.com/watch?v=yHOmMCY589Y) / 01 Why machine learning for artists
+# classes
 * [ml4a.github.io](https://ml4a.github.io/)
 * [kadenze.com/courses/machine-learning-for-musicians-and-artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
 * [cs229.stanford.edu](http://cs229.stanford.edu/)
@@ -27,6 +26,7 @@ permalink: /resources/
 
 # videos
 * [Alt-AI conference](http://genekogan.com/alt-AI/#watch) by School For Poetic Computation
+* [Opendot Fablab "Machine Learning" Playlist](https://www.youtube.com/playlist?list=PLKM8s0R6CRiRHPq076cXCuitDkd_UGir9)
 
 # creative work / research:
 * <a href="http://www.creativeai.net/">creativeAI</a><br>
