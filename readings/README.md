@@ -1,3 +1,9 @@
+---
+layout: page
+title: Reading
+permalink: /reading/
+---
+
 Reading material to help consider wider concepts and theories relating Art + Machine Learning.
 ------
 Feel free to add pdf's to [this directory](https://github.com/publicityreform/findbyimage/tree/master/readings), or paste links below:
