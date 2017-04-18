@@ -23,8 +23,6 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 # theory / context:
 
-[Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
-
 [Hito Steyerl _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](steyerl.pdf)
 
 [Gilbert Simondon _"Technical Mentality"_](simondon.pdf)
@@ -33,9 +31,15 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [David Rumelhart _"The Architecture Of Mind: A Connectionist Approach"_](Rumelhart.pdf)
 
-[Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
+[Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
+
+[Donna Haraway _"A Cyborg Manifesto"_](haraway.pdf)
+
+[Jean-François Lyotard _"The Inhuman" (excerpt: Introduction: "About The Human" & Ch 1. "Can Thought Go On Without A Body?")](lyotard.pdf)
 
 [Anil Bawa-Cavia _"The Inclosure of Reason"_](http://technosphere-magazine.hkw.de/article1/6aefb210-0ee6-11e7-a253-d9923802c14e)
+
+[Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
 
 [Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica _"Machine Bias"_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
