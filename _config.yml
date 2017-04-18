@@ -17,9 +17,10 @@ title: Find By Image
 email: 
 description: > # this means to ignore newlines until "baseurl:"
    "Find By Image; Machine Learning For Artists" is a class in the UCLA School of the Arts and Architecture (Art+Arc 100).
-baseurl: "/findbyimage" # the subpath of your site, e.g. /findbyimage
+baseurl: "/" # the subpath of your site, e.g. /findbyimage
 imgurl: "/findbyimage/assets/images"
-url: "https://publicityreform.github.io" # the base hostname & protocol for your site, e.g. https://publicityreform.github.io
+permalink: "title.html"
+url: "https://publicityreform.github.io/findbyimage" # the base hostname & protocol for your site, e.g. https://publicityreform.github.io
 # twitter_username: jekyllrb
 github_username:  publicityreform/findbyimage
 
