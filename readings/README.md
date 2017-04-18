@@ -1,8 +1,8 @@
 Reading material to help consider wider concepts and theories relating Art + Machine Learning.
 ------
-Feel free to add pdf's to this directory, or paste links below:
+Feel free to add pdf's to [this directory](https://github.com/publicityreform/findbyimage/tree/master/readings), or paste links below:
 
-***
+
 
 # technical reading (whitepapers):
 
