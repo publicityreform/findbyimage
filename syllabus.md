@@ -10,7 +10,11 @@ Tues and Thurs 2-4:50pm
 
 Office Hours:Tues 12-1pm Room 4256 
 
-
+[Overview](#Overview)
+[Assignment 1 - art and technology](#Assignment1)
+[Assignment 2 - everyday AI](#Assignment2)
+[Assignment 3 - whitepaper presentations](#Assignment3)
+[Assignment 4 - studio project](#Assignment4)
 
 # Overview:
 
@@ -27,15 +31,28 @@ Students will be expected to collaborate - to share skills and resources; to doc
 
 # Assignments:
 
-**White paper presentations** - In-class discussions led by groups of three.
+**Assignment 1: Art and Technology** 
+- To be completed by each individual student and presented in a rapid “show and tell” style.
+- Find an example (either contemporary, or from anytime in the last 50k years or so) of an artwork made concurrently with the emergence of a technology. identify the technology being used. “artwork”, “technology”, and “use” are all terms we can think about expansively. examples of artworks that use machine learning are of course welcome, but not expected. the aim is come up with a common critical and aesthetic framework for talking about art and technology. 
+
+**Assignment 2: Everyday AI** 
+- To be completed by each individual student and presented in a mode of the student’s choosing for in-class critique (video / photo / text documentation, graphic representation, interactive demo, online, etc)
+- Identify a way that you are already engaging with AI in everyday life. Develop and document a process of exposing (breaking? interrupting? re-directing?) the limits of this AI.
+- In this process, consider the following questions:
+  - Who made this? (a company, or a government, individuals, or many people, what gender, age, class, location, etc)?
+  - What do you imagine the motivation for making this was? What outcome was expected?
+  - What artifacts (intentional or otherwise) does it produce (visual, textual, sonic, affective, etc)?
+  - Can you point to moments when the technology performs in unexpected ways? 
+  - Can you point to moments when the technology feels human? when it feels inhuman?
+  - What have you given to this technology (data, time, attention, money, etc)?
+  - What new questions does your interaction with this technology elicit?
+
+
+**Assignment 3: White paper presentations** - In-class discussions led by groups of three.
 
 In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. We will be adding to [a collection of white papers]({{site.baseurl}}/readings#technical-reading-whitepapers) for groups to choose from in advance of their presentations.
-    
-**Studio Project I** - to be completed by each individual student and presented in a mode of the student’s choosing for in-class critique.
 
-Identify a way that you are already engaging with AI in everyday life. Develop and document a process of exposing (breaking? interrupting? re-directing?) the limits of this AI.
-
-**Studio Project II** - to be completed by groups of three.
+**Assignment 4: Studio Project** - to be completed by groups of three.
 
 This is the primary project that each student will complete over the course of the class. Each project should start with an essential question related the poetics of machine learning, and progress towards becoming an artwork that makes use of machine learning techniques.
 
@@ -48,15 +65,15 @@ A range of additional resources for learning more about machine learning - textb
 # Grading:
 Grading will be determined as follows:
 
-White paper presentations - (10%)
+Assignment 2: Everyday AI - (20%)
 
-Studio project I - (20%)
+Assignment 3: White paper presentations - (10%)
 
-Studio project II (proposal) - (15%)
+Assignment 4: Studio Project (proposal) - (15%)
 
-Studio project II (proof of concept) - (15%) 
+Assignment 4: Studio Project (proof of concept) - (15%) 
 
-Studio project II (final presentation) - (20%) 
+Assignment 4: Studio Project (final presentation) - (20%) 
 
 Participation - (20%)
 
@@ -94,19 +111,18 @@ If you are going to be late or miss a class, please email before the start of cl
 * Lab: Neural Network Zoo pt 2 - making “toy” networks
 
 **Tues April 18**
-* White Paper presentation - group 1
-* Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware
+* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware](({{site.baseurl}}/Day-4-Notes.html)
 
 **Thurs April 20**
-* White Paper presentation - group 2
+* White Paper presentation - group 1
 * Lab: Optimizing, Filtering, Encoding - abstracting for usefulness
 
 **Tues April 25**
-* White Paper presentation - group 3
+* White Paper presentation - group 2
 * Lab: Supervised and Unsupervised Networks
 
 **Thurs April 27**
-* White Paper presentation - group 4 
+* White Paper presentation - group 3 
 * Lab: Convolutional Networks
 
 **Tues May 2**
@@ -116,25 +132,28 @@ If you are going to be late or miss a class, please email before the start of cl
 * Studio Project II - preliminary presentations /critiques
 
 **Tues May 9**
-* White Paper presentation - group 5
+* White Paper presentation - group 4
 * Lab: Sequence Models - Considering time and other kinds of order
 
 **Thurs May 11**
-* White Paper presentation - group 6 Lab: Generative Networks
+* White Paper presentation - group 5 
+* Lab: Generative Networks
 
 **Tues May 16**
-* White Paper presentation - group 7
+* White Paper presentation - group 6
 * Studio Project II - proof of concept presentations
 * Lab: Deep Dream and Latent Space - peeking into hidden layers
 
 **Thurs May 18**
-* White Paper presentation - group 8
+* White Paper presentation - group 7
 * Studio Project II - proof of concept presentations Lab: Style Transfer - separating content from form
 
 **Tues May 23**
+* White Paper presentation - group 8
 * Lab:Working With Datasets - critical and practical considerations
 
 **Thurs May 25**
+* White Paper presentation - group 9
 * Lab: Scaling up - using deep neural networks on cloud computing platorms
 
 **Tues May 30**
