@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Reading
-permalink: /reading/
+title: Readings
+permalink: /readings/
 ---
 
 Reading material to help consider wider concepts and theories relating Art + Machine Learning.
