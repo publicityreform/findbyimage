@@ -2,7 +2,7 @@
 
 you can browse the site [here](https://publicityreform.github.io/findbyimage)
 
-add new posts to the [_posts](/_posts) directory. make sure to include the date in the title, and [YAML front matter](https://jekyllrb.com/docs/frontmatter/) at the top of the post (see other posts as examples)
+add new posts to the [_posts](/_posts) directory. make sure to include the date in the title, and [YAML front matter](https://jekyllrb.com/docs/frontmatter/) at the top of the post (see other posts as examples, or [here](https://jekyllrb.com/docs/posts/) for more info about writing posts using jekyll)
 
 Notes, Projects, and Demos are all grouped by ["categories"](https://publicityreform.github.io/findbyimage/categories/)
 
