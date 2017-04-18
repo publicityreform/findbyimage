@@ -6,16 +6,12 @@ title: Notes
 
 
 <div id="archives">
-{% for category in site.categories.NOTES %}
-  <div class="archive-group">
-    {% capture category_name %}{{ category | first }}{% endcapture %}
-    <div id="#{{ category_name | slugize }}"></div>
-    <a name="{{ category_name | slugize }}"></a>
-    {% for post in site.categories[category_name] %}
+
+    {% for post in site.categories.notes %}
     <article class="archive-item">
       <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
     </article>
     {% endfor %}
-  </div>
+
 {% endfor %}
 </div>
