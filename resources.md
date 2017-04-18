@@ -38,7 +38,7 @@ permalink: /resources/
 * <a href="http://www.fastforwardlabs.com/">fast forward labs</a><br>
 
 # tools / libraries / packages:
-* <a href="https://github.com/floydhub/dl-docker">deep learning docker container</a><br>
+* <a href="https://github.com/floydhub/dl-docker">deep learning docker container (more info [here]({{site.baseurl}}/DL-Docker.html)</a><br>
 * <a href="https://www.tensorflow.org/">tensorflow</a><br>
 * <a href="http://torch.ch/">torch</a><br>
 * <a href="http://deeplearning.net/software/theano/">theano</a><br>
@@ -49,6 +49,7 @@ permalink: /resources/
 * <a href="http://www.cs.waikato.ac.nz/~ml/weka/">weka</a><br>
 * <a href="http://www.wekinator.org/">wekinator</a><br>
 * <a href="http://moa.cms.waikato.ac.nz/">moa</a><br>
+* [RiTa (computational literature)](http://rednoise.org/rita/)
 
 # cloud platforms / API's:
 most of these are paid services where you need to create an account. usually there is a free tier or pay-per-use option (i.e. free or low cost to use up to a certain number of instances / calls / data over a given time period), which works fine for a test environment, but if you want to deploy to a public site, some budgeting may be required. 
@@ -100,6 +101,7 @@ most of these are paid services where you need to create an account. usually the
 * <a href="https://github.com/adebayoj/fairml">fairML</a><br>
 * <a href="https://github.com/CSTR-Edinburgh/merlin">merlin speech synthesis</a><br>
 * <a href="https://people.eecs.berkeley.edu/~junyanz/">people.eecs.berkeley.edu/~junyanz</a><br>
+
 
 # other lists of resources:
 * <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">deep-learning</a><br>
