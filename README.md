@@ -8,7 +8,7 @@ Notes, Projects, and Demos are all grouped by ["categories"](https://publicityre
 
 ["tags"](https://publicityreform.github.io/findbyimage/tags/) are freeform, annotate as much as you like.
 
-[Reading](/reading/README.md) and [Resources](resources.md) are collections of links that you can add to - especially any [tools](/blob/master/resources.md#tools--libraries--packages) or interesting [projects]((/blob/master/resources.md#projects) you find, please share!
+[Readings](/readings/README.md) and [Resources](resources.md) are collections of links that you can add to - especially any [tools](resources.md#tools--libraries--packages) or interesting [projects](resources.md#projects) you find, please share!
 
 
 
