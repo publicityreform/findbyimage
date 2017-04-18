@@ -82,12 +82,12 @@ If you are going to be late or miss a class, please email before the start of cl
 * Assignment: Studio Project I (due 4/11 or 4/13)
 
 **Thurs April 6**
-* [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice](/2017-04-06-Day-2-Notes.html) 
+* [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice](/Day-2-Notes.html) 
 * Lab: Using and Sharing via GitHub; Overview of software tools to be used in class; Using the course website and online resources
 
 **Tues April 11**
 * Studio Project I - presentations / critiques
-* [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets](/2017-04-06-Day-3-Notes.html)
+* [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets](/Day-3-Notes.html)
 
 **Thurs April 13**
 * Studio Project I - presentations / critiques
