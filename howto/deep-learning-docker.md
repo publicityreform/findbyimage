@@ -13,9 +13,11 @@ download and install the “docker” application from https://docs.docker.com/e
 
 in terminal, type `docker run hello-world` to verify that docker has installed correctly.
 
-use docker to download [this deep learning docker container](https://github.com/floydhub/dl-docker) by typing
+use docker to download [this deep learning docker container](https://github.com/floydhub/dl-docker)* by typing
 
 `docker pull floydhub/dl-docker:cpu`
+
+*there are several other similar all-in-one docker files that are worth comparing - [this one from kyle mcdonald](https://github.com/kylemcdonald/ml-notebook) for instance.
 
 you can read more about what this specific docker container does [here](https://github.com/floydhub/dl-docker). basically, it runs a virtual version of ubuntu linux that has [Tensorflow](https://www.tensorflow.org/), [Caffe](http://caffe.berkeleyvision.org/), [Theano](http://deeplearning.net/software/theano/), [Keras](http://keras.io/), [Lasagne](http://lasagne.readthedocs.io/en/latest/), [Torch](http://torch.ch/), [iPython/Jupyter Notebook](http://jupyter.org/), [Numpy](http://www.numpy.org/), [SciPy](https://www.scipy.org/), [Pandas](http://pandas.pydata.org/), [Scikit Learn](http://scikit-learn.org/), [Matplotlib](http://matplotlib.org/), and [OpenCV](http://opencv.org/) all installed and working without conflict. very helpful!
 
