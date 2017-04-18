@@ -29,7 +29,7 @@ Students will be expected to collaborate - to share skills and resources; to doc
 
 **White paper presentations** - In-class discussions led by groups of three.
 
-In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. We will be adding to [a collection of white papers]({{site.baseurl}}/readings#technical-reading-whitepapers) for groups to choose from in advance of their presentations.
+In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. We will be adding to [a collection of white papers]({{site.baseurl}}/reading#technical-reading-whitepapers) for groups to choose from in advance of their presentations.
     
 **Studio Project I** - to be completed by each individual student and presented in a mode of the student’s choosing for in-class critique.
 
@@ -82,12 +82,12 @@ If you are going to be late or miss a class, please email before the start of cl
 * Assignment: Studio Project I (due 4/11 or 4/13)
 
 **Thurs April 6**
-* [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice]({{site.url}}/Day-2-Notes.html) 
+* [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice]({{site.baseurl}}/Day-2-Notes.html) 
 * Lab: Using and Sharing via GitHub; Overview of software tools to be used in class; Using the course website and online resources
 
 **Tues April 11**
 * Studio Project I - presentations / critiques
-* [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets]({{site.url}}/Day-3-Notes.html)
+* [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets]({{site.baseurl}}/Day-3-Notes.html)
 
 **Thurs April 13**
 * Studio Project I - presentations / critiques
