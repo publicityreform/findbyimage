@@ -38,7 +38,7 @@ permalink: /resources/
 * <a href="http://www.fastforwardlabs.com/">fast forward labs</a><br>
 
 # tools / libraries / packages:
-* <a href="https://github.com/floydhub/dl-docker">deep learning docker container (more info [here]({{site.baseurl}}/DL-Docker.html)</a><br>
+* <a href="https://github.com/floydhub/dl-docker">deep learning docker container (more info [here]({{site.baseurl}}/DL-Docker.html))</a><br>
 * <a href="https://www.tensorflow.org/">tensorflow</a><br>
 * <a href="http://torch.ch/">torch</a><br>
 * <a href="http://deeplearning.net/software/theano/">theano</a><br>
