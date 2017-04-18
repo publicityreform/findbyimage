@@ -1,9 +1,8 @@
 ---
-
+layout: page
+title: Resources
+permalink: /resources/
 ---
-
-Resources
-=========
 
 # other classes
 * [Workshop ML4A @ Opendot](https://www.youtube.com/watch?v=yHOmMCY589Y) / 01 Why machine learning for artists
