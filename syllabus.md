@@ -1,3 +1,9 @@
+---
+layout: page
+title: Syllabus
+permalink: /syllabus/
+---
+
 [UCLA ART&ARC100-1 “Find By Image: Machine Learning For Artists”](http://classes.dma.ucla.edu/Spring17/ARTARC100/) Spring 2017
 
 Tues and Thurs 2-4:50pm
