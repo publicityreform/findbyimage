@@ -10,11 +10,12 @@ Tues and Thurs 2-4:50pm
 
 Office Hours:Tues 12-1pm Room 4256 
 
-[Overview](#Overview)
-[Assignment 1 - art and technology](#Assignment1)
-[Assignment 2 - everyday AI](#Assignment2)
-[Assignment 3 - whitepaper presentations](#Assignment3)
-[Assignment 4 - studio project](#Assignment4)
+- [Overview](#Overview)
+- [Assignment 1 - art and technology](#assignment-1-art-and-technology)
+- [Assignment 2 - everyday AI](#assignment-2-everyday-ai)
+- [Assignment 3 - whitepaper presentations](#assignment-3-whitepaper-presentations)
+- [Assignment 4 - studio project](#assignment-4-studio-project)
+- [Schedule](#assignment-2-everyday-ai)
 
 # Overview:
 
@@ -90,7 +91,8 @@ Studio projects will be evaluated through in-class critique, based on their arti
 # Attendance:
 If you are going to be late or miss a class, please email before the start of class. Each absence or lateness (more than 15 minutes) without prior notice will drop your grade by a half-step (A to A-, for example).
 
-# Schedule (subject to modification):
+# Schedule 
+(subject to modification):
 
 **Tues April 4**
 * Lecture / Discussion: Overview of AI in general, machine learning in specific
