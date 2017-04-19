@@ -31,11 +31,11 @@ Students will be expected to collaborate - to share skills and resources; to doc
 
 # Assignments:
 
-**Assignment 1: Art and Technology** 
+# Assignment 1: Art and Technology
 - To be completed by each individual student and presented in a rapid “show and tell” style.
 - Find an example (either contemporary, or from anytime in the last 50k years or so) of an artwork made concurrently with the emergence of a technology. identify the technology being used. “artwork”, “technology”, and “use” are all terms we can think about expansively. examples of artworks that use machine learning are of course welcome, but not expected. the aim is come up with a common critical and aesthetic framework for talking about art and technology. 
 
-**Assignment 2: Everyday AI** 
+# Assignment 2: Everyday AI
 - To be completed by each individual student and presented in a mode of the student’s choosing for in-class critique (video / photo / text documentation, graphic representation, interactive demo, online, etc)
 - Identify a way that you are already engaging with AI in everyday life. Develop and document a process of exposing (breaking? interrupting? re-directing?) the limits of this AI.
 - In this process, consider the following questions:
@@ -48,11 +48,11 @@ Students will be expected to collaborate - to share skills and resources; to doc
   - What new questions does your interaction with this technology elicit?
 
 
-**Assignment 3: White paper presentations** - In-class discussions led by groups of three.
+# Assignment 3: White paper presentations - In-class discussions led by groups of three.
 
 In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. We will be adding to [a collection of white papers]({{site.baseurl}}/readings#technical-reading-whitepapers) for groups to choose from in advance of their presentations.
 
-**Assignment 4: Studio Project** - to be completed by groups of three.
+# Assignment 4: Studio Project - to be completed by groups of three.
 
 This is the primary project that each student will complete over the course of the class. Each project should start with an essential question related the poetics of machine learning, and progress towards becoming an artwork that makes use of machine learning techniques.
 
@@ -94,76 +94,78 @@ If you are going to be late or miss a class, please email before the start of cl
 
 **Tues April 4**
 * Lecture / Discussion: Overview of AI in general, machine learning in specific
-* Assignment: Questionnaire - A look at our resources (due before Thursday’s class) 
-* Assignment: Find example of artwork that makes use of an emerging technology (due 4/6) 
-* Assignment: Studio Project I (due 4/11 or 4/13)
+* Survey - A look at our resources (due before Thursday’s class) 
+* Assignment 1: Art and Technology (due 4/6) 
+* Assignment 2: Everyday AI (due 4/11 or 4/13)
 
 **Thurs April 6**
 * [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice]({{site.baseurl}}/Day-2-Notes.html) 
 * Lab: Using and Sharing via GitHub; Overview of software tools to be used in class; Using the course website and online resources
 
 **Tues April 11**
-* Studio Project I - presentations / critiques
+* Assignment 2: Everyday AI - presentations / critiques
 * [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets]({{site.baseurl}}/Day-3-Notes.html)
 
 **Thurs April 13**
-* Studio Project I - presentations / critiques
+* Assignment 2: Everyday AI - presentations / critiques
 * Lab: Neural Network Zoo pt 2 - making “toy” networks
 
 **Tues April 18**
-* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware](({{site.baseurl}}/Day-4-Notes.html)
+* Assignment 2: Everyday AI - presentations / critiques
+* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware]({{site.baseurl}}/Day-4-Notes.html)
 
 **Thurs April 20**
-* White Paper presentation - group 1
 * Lab: Optimizing, Filtering, Encoding - abstracting for usefulness
 
 **Tues April 25**
-* White Paper presentation - group 2
+* Assignment 3: White Paper presentation - group 1
 * Lab: Supervised and Unsupervised Networks
 
 **Thurs April 27**
-* White Paper presentation - group 3 
+* Assignment 3: White Paper presentation - group 2 
 * Lab: Convolutional Networks
 
 **Tues May 2**
-* Studio Project II - preliminary presentations / critiques
+* Assignment 4: Studio Project - preliminary presentations / critiques (groups 1-5)
 
 **Thurs May 4**
-* Studio Project II - preliminary presentations /critiques
+* Assignment 4: Studio Project - preliminary presentations /critiques (groups 6-9)
 
 **Tues May 9**
-* White Paper presentation - group 4
+* Assignment 3: White Paper presentation - group 3
 * Lab: Sequence Models - Considering time and other kinds of order
 
 **Thurs May 11**
-* White Paper presentation - group 5 
+* Assignment 3: White Paper presentation - group 4 
 * Lab: Generative Networks
 
 **Tues May 16**
-* White Paper presentation - group 6
-* Studio Project II - proof of concept presentations
+* Assignment 3: White Paper presentation - group 5
+* Assignment 4: Studio Project - proof of concept presentations (groups 1-5)
 * Lab: Deep Dream and Latent Space - peeking into hidden layers
 
 **Thurs May 18**
-* White Paper presentation - group 7
-* Studio Project II - proof of concept presentations Lab: Style Transfer - separating content from form
+* Assignment 3: White Paper presentation - group 6
+* Assignment 4: Studio Project - proof of concept presentations (groups 6-9)
+* Lab: Style Transfer - separating content from form
 
 **Tues May 23**
-* White Paper presentation - group 8
+* Assignment 3: White Paper presentation - group 7
 * Lab:Working With Datasets - critical and practical considerations
 
 **Thurs May 25**
-* White Paper presentation - group 9
+* Assignment 3: White Paper presentation - group 8
 * Lab: Scaling up - using deep neural networks on cloud computing platorms
 
 **Tues May 30**
+* Assignment 3: White Paper presentation - group 9
 * Lab: work on studio projects
 
 **Thurs June 1**
 * Lab: work on studio projects
 
 **Tues June 6**
-* Studio Project II - Final presentations / critiques
+* Assignment 4: Studio Project - Final presentations / critiques (groups 1-5)
 
 **Thurs June 8**
-* Studio Project II - Final presentations / critiques
+* Assignment 4: Studio Project - Final presentations / critiques (groups 6-9)
