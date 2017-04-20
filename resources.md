@@ -104,6 +104,7 @@ most of these are paid services where you need to create an account. usually the
 * <a href="https://github.com/adebayoj/fairml">fairML</a><br>
 * <a href="https://github.com/CSTR-Edinburgh/merlin">merlin speech synthesis</a><br>
 * <a href="https://people.eecs.berkeley.edu/~junyanz/">people.eecs.berkeley.edu/~junyanz</a><br>
+* [RNN piano music](https://medium.com/dbrs-innovation-labs/in-his-novel-galatea-2-2-e9d11c9b7c2a)
 
 
 # other lists of resources:
