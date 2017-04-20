@@ -84,7 +84,6 @@ most of these are paid services where you need to create an account. usually the
 * [perspective](https://www.perspectiveapi.com/)
   - evaluates "toxicity" of text
   
-
 # projects:
 * <a href="https://github.com/affinelayer/pix2pix-tensorflow">pix2pix</a><br>
 * <a href="http://cmusatyalab.github.io/openface/">openface</a><br>
@@ -109,15 +108,6 @@ most of these are paid services where you need to create an account. usually the
 * [emotion-enforcing text editor](https://medium.com/@samim/dont-worry-be-happy-415b96c5b12e)
 * [machine intelligence and the environment](https://medium.com/machine-intelligence-report/machine-intelligence-and-the-environment-43bdebd3497d)
 
-
-# other lists of resources:
-* <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">deep-learning</a><br>
-* <a href="https://github.com/jtoy/awesome-tensorflow#github-projects">tensorflow-github-projects</a><br>
-* <a href="https://github.com/josephmisiti/awesome-machine-learning">machine-learning</a><br>
-* <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a><br>
-* <a href="https://www.kaggle.com/">kaggle.com/</a><br>
-* <a href="http://www.kdnuggets.com/">kdnuggets.com/</a>
-
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
 * <a href="http://image-net.org/">imageNet</a>
@@ -132,5 +122,15 @@ most of these are paid services where you need to create an account. usually the
 * lists of text corpora
   - [wikipedia](https://en.wikipedia.org/wiki/List_of_text_corpora)
   - [corpus.byu.edu](http://corpus.byu.edu/)
+  
+# pre-trained models:
+* [caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
+# other lists of resources:
+* <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">deep-learning</a><br>
+* <a href="https://github.com/jtoy/awesome-tensorflow#github-projects">tensorflow-github-projects</a><br>
+* <a href="https://github.com/josephmisiti/awesome-machine-learning">machine-learning</a><br>
+* <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a><br>
+* <a href="https://www.kaggle.com/">kaggle.com/</a><br>
+* <a href="http://www.kdnuggets.com/">kdnuggets.com/</a>
 
