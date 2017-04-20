@@ -41,6 +41,8 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [Allison Parrish _"Exploring (Semantic) Space With (Literal) Robots"_](http://opentranscripts.org/transcript/semantic-space-literal-robots/) 
 
+[Christopher Olah _"Visualizing Representations: Deep Learning For Humans"_](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
+
 [Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
 
 [Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica _"Machine Bias"_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
