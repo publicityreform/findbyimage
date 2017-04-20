@@ -53,6 +53,7 @@ permalink: /resources/
 
 # cloud platforms / API's:
 most of these are paid services where you need to create an account. usually there is a free tier or pay-per-use option (i.e. free or low cost to use up to a certain number of instances / calls / data over a given time period), which works fine for a test environment, but if you want to deploy to a public site, some budgeting may be required. 
+
 * [google machine learning](https://cloud.google.com/products/machine-learning/)
   - [storage / computing / workflow](https://cloud.google.com/ml/)
   - [job search API](https://cloud.google.com/jobs-api/)
@@ -80,6 +81,8 @@ most of these are paid services where you need to create an account. usually the
   - "personality insights"
 * [API.ai](https://api.ai/)
   - free chatbot API
+* [perspective](https://www.perspectiveapi.com/)
+  - evaluates "toxicity" of text
   
 
 # projects:
