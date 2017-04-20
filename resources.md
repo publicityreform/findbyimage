@@ -83,6 +83,7 @@ most of these are paid services where you need to create an account. usually the
   - free chatbot API
 * [perspective](https://www.perspectiveapi.com/)
   - evaluates "toxicity" of text
+* [metamind](https://metamind.io/)
   
 # projects:
 * <a href="https://github.com/affinelayer/pix2pix-tensorflow">pix2pix</a><br>
@@ -107,6 +108,7 @@ most of these are paid services where you need to create an account. usually the
 * [generate stories for images]
 * [emotion-enforcing text editor](https://medium.com/@samim/dont-worry-be-happy-415b96c5b12e)
 * [machine intelligence and the environment](https://medium.com/machine-intelligence-report/machine-intelligence-and-the-environment-43bdebd3497d)
+* [terrapattern](http://www.terrapattern.com)
 
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
