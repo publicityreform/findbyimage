@@ -3,7 +3,7 @@
 Note: We previously downloaded and installed [Docker](https://www.docker.com) and then we made a directory named ```sharedfolder``` in our home directory.
 
 1. Turn on docker (you may have this installed and run it via your Mac Menu bar). 
-2. In Terminal, run ```docker run -it -p 8888:8888 -p 6666:6666 -v /Users/<yourAccountName>/sharedfolder/:/root/sharedfolder floydhub/dl-docker:cpu bash```. If you don't have it all installed, it will install (wait...). Make sure you replace <YourAccountName>!
+2. In Terminal, run ```docker run -it -p 8888:8888 -p 6666:6666 -v /Users/<yourAccountName>/sharedfolder/:/root/sharedfolder floydhub/dl-docker:cpu bash```. If you don't have it all installed, it will install (wait...). Make sure you replace ```<YourAccountName>```.
 3. It may prompt you for your password. Type it in.
 4. Run ```jupyter notebook```
 5. Go to browser. Type in ```localhost:8888```
