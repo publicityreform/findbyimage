@@ -1,3 +1,9 @@
+---
+title:  "How to install/access Jupyter Notebook via the Floydhub docker"
+date:   2017-04-20 21:52:15 -0700
+categories: [howto]
+---
+
 # How to install/access Jupyter Notebook via the Floydhub docker and access a notebook
 
 Note: We previously downloaded and installed [Docker](https://www.docker.com) and then we made a directory named ```sharedfolder``` in our home directory.
