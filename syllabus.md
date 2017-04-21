@@ -49,9 +49,23 @@ Students will be expected to collaborate - to share skills and resources; to doc
   - What new questions does your interaction with this technology elicit?
 
 
-# Assignment 3: White paper presentations - In-class discussions led by groups of three.
+# Assignment 3: White paper presentations
+- In-class discussions led by groups of three.
 
-In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. We will be adding to [a collection of white papers]({{site.baseurl}}/readings#technical-reading-whitepapers) for groups to choose from in advance of their presentations.
+White papers (or, variously, “whitepapers”) occupy an interesting literary territory between scientific publication and marketing tool. They serve to explain a specialized topic to a more general audience. A technique or concept may be explained, a problem identified, or a solution proposed. White papers may present experimental evidence that is designed to be independently repeated by readers, or it may only hint at or speculate on possibilities. 
+
+For this assignment, each group of three will choose one paper to present collaboratively in class. The goal of your presentation should be to attempt a deeper understanding of new and interesting projects in the field of AI in general, and machine learning in specific. Your choice of paper should be based on your own curiosities, rather than any prior understanding or specialized knowledge.  
+
+some possible questions to address in your presentation:
+- what is the “problem” being presented by the paper? this may be presented as an “opportunity” instead of a problem - read carefully :)
+- what methods, materials, and concepts are involved in solving this problem, or pursuing this opportunity? how open is access to these materials and methods?
+- assume the paper is a marketing tool - what is the product? 
+- how does the paper place itself in context (what can you tell from its tone, references to prior work, footnotes, etc?)
+- are there other keywords or tags that you would apply to this paper to help other audiences find it?
+
+walk us through the paper in detail. bring in supplementary materials / images / references if it is helpful. this is an exercise in literacy-building from multiple angles.
+
+as for where to find papers, i'd like to focus on AI/machine learning/deep learning, but this can encompass all aspects from math to social science to ethics to infrastructure to design... it's a broad field for sure. i've listed a few sources [here]({{site.baseurl}}/readings#technical-reading-whitepapers). also, [arXiv](https://arxiv.org/) is a terrific repository of scientific papers - try searching for terms that interest you. ideally, we'll start with newer work: if the paper is older than 6 months or so, try to determine if newer work has been published that updates or revises the original publication.
 
 # Assignment 4: Studio Project - to be completed by groups of three.
 
