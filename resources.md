@@ -52,7 +52,7 @@ permalink: /resources/
 * [RiTa (computational literature)](http://rednoise.org/rita/)
 
 # cloud platforms / API's:
-most of these are paid services where you need to create an account. usually there is a free tier or pay-per-use option (i.e. free or low cost to use up to a certain number of instances / calls / data over a given time period), which works fine for a test environment, but if you want to deploy to a public site, some budgeting may be required. 
+some of these are paid services where you need to create an account. for these paid services, there is often a free tier / pay-per-use option, which works fine for a test environment. if you want to deploy to a public site, some budgeting may be required. 
 
 * [google machine learning](https://cloud.google.com/products/machine-learning/)
   - [storage / computing / workflow](https://cloud.google.com/ml/)
@@ -70,6 +70,7 @@ most of these are paid services where you need to create an account. usually the
 * [bigML](https://bigml.com/)
 * [floydhub](https://www.floydhub.com/)
 * [orange](http://orange.biolab.si/)
+* [pachyderm](https://github.com/pachyderm/pachyderm#pachyderm-a-containerized-data-lake)
 * [IBM Watson](https://www.ibm.com/watson/)
   - translation
   - "conversation" (for building chatbots)
@@ -124,6 +125,8 @@ most of these are paid services where you need to create an account. usually the
 * lists of text corpora
   - [wikipedia](https://en.wikipedia.org/wiki/List_of_text_corpora)
   - [corpus.byu.edu](http://corpus.byu.edu/)
+* [new york area transit data in realtime](http://dotsignals.org/)
+* [los angeles' "open data" portal](https://data.lacity.org/)
   
 # pre-trained models:
 * [caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
