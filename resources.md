@@ -49,6 +49,7 @@ permalink: /resources/
 * <a href="http://www.cs.waikato.ac.nz/~ml/weka/">weka</a><br>
 * <a href="http://www.wekinator.org/">wekinator</a><br>
 * <a href="http://moa.cms.waikato.ac.nz/">moa</a><br>
+* [neon](https://github.com/NervanaSystems/neon)
 * [RiTa (computational literature)](http://rednoise.org/rita/)
 
 # cloud platforms / API's:
