@@ -123,6 +123,7 @@ some of these are paid services where you need to create an account. for these p
 
 # courses and other online resources
 * [ml4a.github.io](https://ml4a.github.io/)
+* [Francis Tseng's Machine Learning 101](https://github.com/frnsys/ml101)
 * [kadenze.com/courses/machine-learning-for-musicians-and-artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
 * [cs229.stanford.edu](http://cs229.stanford.edu/)
 * [itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10](https://itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10)
@@ -145,5 +146,6 @@ some of these are paid services where you need to create an account. for these p
 * <a href="http://www.kdnuggets.com/">kdnuggets.com/</a>
 * [wild AI](http://www.wildml.com/)
   - especially this [glossary of deep learning terms](http://www.wildml.com/deep-learning-glossary/)
+
 
 
