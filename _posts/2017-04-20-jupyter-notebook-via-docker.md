@@ -3,7 +3,7 @@ layout: post
 title:  "Install and Access Jupyter Notebook via Docker"
 date:   2017-04-11 21:52:15 -0700
 tags: [Jupyter, Docker, Terminal]
-categories: [How To]
+categories: [howto]
 ---
 
 # How to install/access Jupyter Notebook via the Floydhub docker and access a notebook
