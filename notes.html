@@ -1,0 +1,17 @@
+---
+layout: page
+permalink: /notes/
+title: Notes
+---
+
+
+<div id="archives">
+  <div class="archive-group">
+    Category: Notes
+    {% for post in site.categories.notes %}
+    <article class="archive-item">
+      <h4><a href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a></h4>
+    </article>
+    {% endfor %}
+  </div>
+</div>
