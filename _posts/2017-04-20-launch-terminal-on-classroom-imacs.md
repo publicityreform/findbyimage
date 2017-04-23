@@ -3,7 +3,7 @@ layout: post
 title:  "launch terminal on classroom imacs"
 date:   2017-04-20 21:52:15 -0700
 tags: [Terminal]
-categories: [How To]
+categories: [howto]
 ---
 
 open terminal
