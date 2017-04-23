@@ -3,7 +3,7 @@ layout: post
 title:  "run your computer from the command line"
 date:   2017-04-06 21:52:15 -0700
 tags: [Terminal]
-categories: [How To]
+categories: [howto]
 ---
 
 # Running Your Computer From the Command Line
