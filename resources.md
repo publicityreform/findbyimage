@@ -4,23 +4,6 @@ title: Resources
 permalink: /resources/
 ---
 
-# classes
-* [ml4a.github.io](https://ml4a.github.io/)
-* [kadenze.com/courses/machine-learning-for-musicians-and-artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
-* [cs229.stanford.edu](http://cs229.stanford.edu/)
-* [itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10](https://itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10)
-* [coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
-* [stanford.edu/class/cs224n](http://web.stanford.edu/class/cs224n/)
-* [patrickhebron.com/learning-machines](http://www.patrickhebron.com/learning-machines/)
-* [kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
-* [udacity.com/course/intro-to-machine-learning--ud120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
-* [udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
-* [web.cs.ucla.edu/~sriram/courses/cs188](http://web.cs.ucla.edu/~sriram/courses/cs188.winter-2017/html/index.html)
-* [ciml.info](http://ciml.info/)
-* [Courses/UCLA/Stat_231](http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_231/Stat_231.html)
-* [machine-learning-is-fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
-* [Emulating Intelligence](https://github.com/learning-gardens/_emulating_intelligence)
-
 # reading
 * An organized list of essays / papers / etc can be found [here](/readings/README.md)
 
@@ -113,6 +96,8 @@ some of these are paid services where you need to create an account. for these p
 * [emotion-enforcing text editor](https://medium.com/@samim/dont-worry-be-happy-415b96c5b12e)
 * [machine intelligence and the environment](https://medium.com/machine-intelligence-report/machine-intelligence-and-the-environment-43bdebd3497d)
 * [terrapattern](http://www.terrapattern.com)
+* [picbreeder](http://picbreeder.org/)
+* [morphing faces](http://vdumoulin.github.io/morphing_faces/online_demo.html)
 
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
@@ -130,15 +115,35 @@ some of these are paid services where you need to create an account. for these p
   - [corpus.byu.edu](http://corpus.byu.edu/)
 * [new york area transit data in realtime](http://dotsignals.org/)
 * [los angeles' "open data" portal](https://data.lacity.org/)
+* [kanji vector graphics](http://kanjivg.tagaini.net/)
+* [TU Berlin sketch database (vector graphics or bitmap)](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
   
 # pre-trained models:
 * [caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
 
-# other lists of resources:
+# courses and other online resources
+* [ml4a.github.io](https://ml4a.github.io/)
+* [kadenze.com/courses/machine-learning-for-musicians-and-artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
+* [cs229.stanford.edu](http://cs229.stanford.edu/)
+* [itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10](https://itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10)
+* [coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
+* [stanford.edu/class/cs224n](http://web.stanford.edu/class/cs224n/)
+* [patrickhebron.com/learning-machines](http://www.patrickhebron.com/learning-machines/)
+* [kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow](https://www.kadenze.com/courses/creative-applications-of-deep-learning-with-tensorflow-iv/info)
+* [udacity.com/course/intro-to-machine-learning--ud120](https://www.udacity.com/course/intro-to-machine-learning--ud120)
+* [udacity.com/course/deep-learning--ud730](https://www.udacity.com/course/deep-learning--ud730)
+* [web.cs.ucla.edu/~sriram/courses/cs188](http://web.cs.ucla.edu/~sriram/courses/cs188.winter-2017/html/index.html)
+* [ciml.info](http://ciml.info/)
+* [Courses/UCLA/Stat_231](http://www.stat.ucla.edu/~sczhu/Courses/UCLA/Stat_231/Stat_231.html)
+* [machine-learning-is-fun](https://medium.com/@ageitgey/machine-learning-is-fun-80ea3ec3c471)
+* [Emulating Intelligence](https://github.com/learning-gardens/_emulating_intelligence)
 * <a href="https://github.com/ChristosChristofidis/awesome-deep-learning">deep-learning</a><br>
 * <a href="https://github.com/jtoy/awesome-tensorflow#github-projects">tensorflow-github-projects</a><br>
 * <a href="https://github.com/josephmisiti/awesome-machine-learning">machine-learning</a><br>
 * <a href="https://github.com/ujjwalkarn/Machine-Learning-Tutorials">Machine-Learning-Tutorials</a><br>
 * <a href="https://www.kaggle.com/">kaggle.com/</a><br>
 * <a href="http://www.kdnuggets.com/">kdnuggets.com/</a>
+* [wild AI](http://www.wildml.com/)
+  - especially this [glossary of deep learning terms](http://www.wildml.com/deep-learning-glossary/)
+
 
