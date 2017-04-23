@@ -86,6 +86,8 @@ some of these are paid services where you need to create an account. for these p
 * [perspective](https://www.perspectiveapi.com/)
   - evaluates "toxicity" of text
 * [metamind](https://metamind.io/)
+* [superscript](http://superscriptjs.com/)
+  - node-based chat agent
   
 # projects:
 * <a href="https://github.com/affinelayer/pix2pix-tensorflow">pix2pix</a><br>
