@@ -103,6 +103,7 @@ some of these are paid services where you need to create an account. for these p
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
 * <a href="http://image-net.org/">imageNet</a>
 * <a href="http://mscoco.org/">COCO</a><br>
+* [caltech 101 (categorized images)](http://www.vision.caltech.edu/Image_Datasets/Caltech101/)
 * <a href="http://homepages.inf.ed.ac.uk/jyamagis/page3/page58/page58.html">homepages.inf.ed.ac.uk/jyamagis</a><br>
 * <a href="https://www.cs.toronto.edu/~kriz/cifar.html">CIFAR</a><br>
 * <a href="http://www.statmt.org/europarl/">statmt.org/europarl</a><br>
@@ -120,6 +121,7 @@ some of these are paid services where you need to create an account. for these p
   
 # pre-trained models:
 * [caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
+* [VGG very deep convnet models](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 
 # courses and other online resources
 * [ml4a.github.io](https://ml4a.github.io/)
