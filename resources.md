@@ -35,6 +35,7 @@ permalink: /resources/
 * <a href="http://moa.cms.waikato.ac.nz/">moa</a><br>
 * [neon](https://github.com/NervanaSystems/neon)
 * [RiTa (computational literature)](http://rednoise.org/rita/)
+* [tracery (javascript text generator)](http://tracery.io/)
 
 # cloud platforms / API's:
 some of these are paid services where you need to create an account. for these paid services, there is often a free tier / pay-per-use option, which works fine for a test environment. if you want to deploy to a public site, some budgeting may be required. 
