@@ -53,6 +53,7 @@ some of these are paid services where you need to create an account. for these p
   - [Lex (for building chatbots)](https://aws.amazon.com/lex/)
   - [Polly (text to speech)](https://aws.amazon.com/polly)
   - [amazon machine learning](https://aws.amazon.com/machine-learning/)
+* [digital ocean](https://www.digitalocean.com/)
 * [bigML](https://bigml.com/)
 * [floydhub](https://www.floydhub.com/)
 * [orange](http://orange.biolab.si/)
