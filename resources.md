@@ -148,6 +148,7 @@ some of these are paid services where you need to create an account. for these p
 * <a href="http://www.kdnuggets.com/">kdnuggets.com/</a>
 * [wild AI](http://www.wildml.com/)
   - especially this [glossary of deep learning terms](http://www.wildml.com/deep-learning-glossary/)
+* [chatbot's life (all about making chatbots)](https://chatbotslife.com/)
 
 
 
