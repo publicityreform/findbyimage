@@ -121,6 +121,7 @@ some of these are paid services where you need to create an account. for these p
 * [los angeles' "open data" portal](https://data.lacity.org/)
 * [kanji vector graphics](http://kanjivg.tagaini.net/)
 * [TU Berlin sketch database (vector graphics or bitmap)](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
+* [small text copora](https://github.com/dariusk/corpora)
   
 # pre-trained models:
 * [caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
