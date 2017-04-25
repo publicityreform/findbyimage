@@ -25,6 +25,7 @@ permalink: /resources/
 * <a href="https://www.tensorflow.org/">tensorflow</a><br>
 * <a href="http://torch.ch/">torch</a><br>
 * <a href="http://deeplearning.net/software/theano/">theano</a><br>
+* [darknet](https://pjreddie.com/darknet/)
 * <a href="http://scikit-learn.org/stable/index.html">scikit-learn</a><br>
 * <a href="https://deeplearning4j.org/">deeplearning4j</a><br>
 * <a href="https://keras.io/">keras</a><br>
