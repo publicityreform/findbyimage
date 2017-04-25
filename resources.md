@@ -93,12 +93,13 @@ some of these are paid services where you need to create an account. for these p
 * <a href="https://github.com/CSTR-Edinburgh/merlin">merlin speech synthesis</a><br>
 * <a href="https://people.eecs.berkeley.edu/~junyanz/">people.eecs.berkeley.edu/~junyanz</a><br>
 * [RNN piano music](https://medium.com/dbrs-innovation-labs/in-his-novel-galatea-2-2-e9d11c9b7c2a)
-* [generate stories for images]
 * [emotion-enforcing text editor](https://medium.com/@samim/dont-worry-be-happy-415b96c5b12e)
 * [machine intelligence and the environment](https://medium.com/machine-intelligence-report/machine-intelligence-and-the-environment-43bdebd3497d)
 * [terrapattern](http://www.terrapattern.com)
 * [picbreeder](http://picbreeder.org/)
 * [morphing faces](http://vdumoulin.github.io/morphing_faces/online_demo.html)
+* [pix2pix](https://affinelayer.com/pixsrv/)
+* [@zero_likes](http://samhains.com/zero-likes.html)
 
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
