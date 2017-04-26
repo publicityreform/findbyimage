@@ -58,6 +58,7 @@ some of these are paid services where you need to create an account. for these p
 * [floydhub](https://www.floydhub.com/)
 * [orange](http://orange.biolab.si/)
 * [pachyderm](https://github.com/pachyderm/pachyderm#pachyderm-a-containerized-data-lake)
+* [nanonets.ai (API for using pretrained models)](http://nanonets.ai)
 * [IBM Watson](https://www.ibm.com/watson/)
   - translation
   - "conversation" (for building chatbots)
@@ -76,7 +77,7 @@ some of these are paid services where you need to create an account. for these p
   - node-based chat agent
   
 # projects:
-* <a href="https://github.com/affinelayer/pix2pix-tensorflow">pix2pix</a><br>
+* [pix2pix](https://affinelayer.com/pixsrv/)
 * <a href="http://cmusatyalab.github.io/openface/">openface</a><br>
 * <a href="http://cs.stanford.edu/people/karpathy/convnetjs/">convnet.js</a><br>
 * <a href="http://cs.stanford.edu/people/karpathy/recurrentjs/">recurrent.js</a><br>
@@ -100,8 +101,8 @@ some of these are paid services where you need to create an account. for these p
 * [terrapattern](http://www.terrapattern.com)
 * [picbreeder](http://picbreeder.org/)
 * [morphing faces](http://vdumoulin.github.io/morphing_faces/online_demo.html)
-* [pix2pix](https://affinelayer.com/pixsrv/)
 * [@zero_likes](http://samhains.com/zero-likes.html)
+* [
 
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
