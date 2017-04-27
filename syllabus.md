@@ -80,7 +80,7 @@ This is the primary project that each student will complete for the class. Each 
 
 - to be presented in three iterations, each of which should be considered as a standalone artwork in its own right. we can look at examples of speculative, ad hoc, and contingent artworks that might give context for how this might work:
 
-1. proposal (due 5/2 and 5/4)
+**PART ONE: proposal (due 5/2 and 5/4)**
 
 considerations can include technical and critical considerations, without necessarily getting into the practicalities of “how” it will work just yet. to be clear - emphasis should be on a speculative generation of ideas, without worrying about “how” to implement these ideas just yet.
 
@@ -94,9 +94,9 @@ include thoughts about:
   - the intended outcome (behavior, material, engagement, use, audience, distribution… ?)  
   - how to evaluate success or failure of this specific project?
 
-2. proof of concept (due 5/16 and 5/18)
+**PART TWO: proof of concept (due 5/16 and 5/18)**
 
-3. final presentation (due 6/6 and 6/8)
+**PART THREE: final presentation (due 6/6 and 6/8)**
 
 The final form these collaborative projects take is completely up to the groups. It can be one artwork made collaboratively, one prompt responded to in three different ways, three completely autonomous artworks that share a space, or two separate things with one intermediary, or a chain of processes (one person makes something for the next person to react to) - think expansively about what collaborating means here. 
 
