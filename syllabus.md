@@ -70,7 +70,6 @@ walk us through the paper in detail. bring in supplementary materials / images /
 as for where to find papers, i'd like to focus on AI/machine learning/deep learning, but this can encompass all aspects from math to social science to ethics to infrastructure to design... it's a broad field for sure. i've listed a few sources [here]({{site.baseurl}}/readings#technical-reading-whitepapers). also, [arXiv](https://arxiv.org/) is a terrific repository of scientific papers - try searching for terms that interest you. ideally, we'll start with newer work: if the paper is older than 6 months or so, try to determine if newer work has been published that updates or revises the original publication.
 
 # Assignment 4: Studio Project
-- to be completed by groups of three.
 
 FINAL PROJECT
 
