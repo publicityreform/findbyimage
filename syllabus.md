@@ -72,10 +72,35 @@ as for where to find papers, i'd like to focus on AI/machine learning/deep learn
 # Assignment 4: Studio Project
 - to be completed by groups of three.
 
-This is the primary project that each student will complete over the course of the class. Each project should start with an essential question related the poetics of machine learning, and progress towards becoming an artwork that makes use of machine learning techniques.
+FINAL PROJECT
 
-This project will be presented three times,  first as a **proposal**, second as a **proof of concept**, and third as a **finished artwork**. The design and final form of this project is completely up to the collaborative group, but should be a consideration from the proposal stage on. In-class critiques at each stage will help guide the group to refine their initial proposal and working process, and to make full use of available resources.
+This is the primary project that each student will complete for the class. Each project should start with an essential question related the poetics of machine learning, and progress towards becoming an artwork that makes critical use of machine learning techniques. What form this artwork takes - an intervention, a toolkit, a model, an exploration, a generative result… etc - is up to you.
 
+- to be worked on in groups of three
+
+- to be presented in three iterations, each of which should be considered as a standalone artwork in its own right. we can look at examples of speculative, ad hoc, and contingent artworks that might give context for how this might work:
+
+1. proposal (due 5/2 and 5/4)
+
+considerations can include technical and critical considerations, without necessarily getting into the practicalities of “how” it will work just yet. to be clear - emphasis should be on a speculative generation of ideas, without worrying about “how” to implement these ideas just yet.
+
+at this stage, the artwork you present should take the form of a presentation, a brainstorm, a sketch or a maquette. at minimum, upload presentation materials (text, image, slideshows, videos, etc) to the course github as a blog post. supplementary (offline) materials are very welcome.
+
+include thoughts about: 
+  - the data that you will use
+  - the form in which this input data will be used
+  - the quality or type of learning that will be employed
+  - the model of learning you are interested in using
+  - the intended outcome (behavior, material, engagement, use, audience, distribution… ?)  
+  - how to evaluate success or failure of this specific project?
+
+2. proof of concept (due 5/16 and 5/18)
+
+3. final presentation (due 6/6 and 6/8)
+
+The final form these collaborative projects take is completely up to the groups. It can be one artwork made collaboratively, one prompt responded to in three different ways, three completely autonomous artworks that share a space, or two separate things with one intermediary, or a chain of processes (one person makes something for the next person to react to) - think expansively about what collaborating means here. 
+
+In-class critiques at each stage can help guide the group to refine their initial proposal and working process, and to make full use of available resources.
 # Additional Course Materials and Readings
 Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here](/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
 
