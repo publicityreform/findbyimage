@@ -75,6 +75,7 @@ some of these are paid services where you need to create an account. for these p
 * [metamind](https://metamind.io/)
 * [superscript](http://superscriptjs.com/)
   - node-based chat agent
+* [clarifai (visual recognition API)[https://www.clarifai.com/]
   
 # projects:
 * [pix2pix](https://affinelayer.com/pixsrv/)
