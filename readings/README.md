@@ -51,6 +51,8 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [_"The Shell"_A Conversation between Isaa Samb and Antje Majewski](http://www.antjemajewski.de/2010/10/16/the-shell-a-conversation-between-issa-samb-and-antje-majewski-dakar-2010/)
 
+[_"Animism"_ Exhibition Catalog](http://www.hkw.de/media/en/texte/pdf/2012_1/programm_5/animismus_booklet.pdf)
+
 [Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica _"Machine Bias"_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
 [Kate Crawford _"Artificial Intelligence's White Guy Problem"_](https://www.nytimes.com/2016/06/26/opinion/sunday/artificial-intelligences-white-guy-problem.html?_r=1)
