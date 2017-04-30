@@ -49,7 +49,7 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
 
-[_"The Shell"_A Conversation between Isaa Samb and Antje Majewski](http://www.antjemajewski.de/2010/10/16/the-shell-a-conversation-between-issa-samb-and-antje-majewski-dakar-2010/)
+[_"The Shell"_ A Conversation between Isaa Samb and Antje Majewski](http://www.antjemajewski.de/2010/10/16/the-shell-a-conversation-between-issa-samb-and-antje-majewski-dakar-2010/)
 
 [_"Animism"_ Exhibition Catalog](http://www.hkw.de/media/en/texte/pdf/2012_1/programm_5/animismus_booklet.pdf)
 
