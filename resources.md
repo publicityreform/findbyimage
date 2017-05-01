@@ -134,6 +134,7 @@ some of these are paid services where you need to create an account. for these p
 * [ml4a.github.io](https://ml4a.github.io/)
 * [Francis Tseng's Machine Learning 101](https://github.com/frnsys/ml101)
 * [kadenze.com/courses/machine-learning-for-musicians-and-artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
+* [Matteo Pasquinelli: "The Abnormal Mind in the Age Machinic Intelligence"](https://www.academia.edu/25744051/The_Abnormal_Mind_in_the_Age_Machinic_Intelligence)
 * [cs229.stanford.edu](http://cs229.stanford.edu/)
 * [itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10](https://itp.nyu.edu/varwiki/Syllabus/LearningBitbyBitS10)
 * [coursera.org/learn/machine-learning](https://www.coursera.org/learn/machine-learning)
