@@ -163,22 +163,24 @@ If you are going to be late or miss a class, please email before the start of cl
 * Read: [Jean-François Lyotard _“The Inhuman”_ (excerpts) Introduction: _“About The Human”_ & Ch 1. _“Can Thought Go On Without A Body?”_](/readings/simondon.pdf)
 
 **Thurs April 20**
-* [Lab: Optimizing, Filtering, Encoding - abstracting for usefulness]({{site.baseurl}}/Day-6-Notes.html)
+* [Lab: Optimizing, Filtering, Encoding - abstracting for usefulness]({{site.baseurl}}/Day-6-Notes.md)
 * Read: [Anil Bawa-Cavia _"The Inclosure of Reason"_](http://technosphere-magazine.hkw.de/article1/6aefb210-0ee6-11e7-a253-d9923802c14e)
 
 **Tues April 25**
 * Assignment 3: White Paper presentation - group 1
-* Lab: TBD
+* [Lab: Word2Vec, T-sne - abstracting for usefulness part 2]({{site.baseurl}}/Day-7-Notes.md)
 
 **Thurs April 27**
 * Assignment 3: White Paper presentation - group 2 
-* Lab: TBD
+* [Lab: Convolutional Neural Networks]({{site.baseurl}}/Day-8-Notes.md)
 
 **Tues May 2**
 * Assignment 4: Studio Project - preliminary presentations / critiques (groups 1-5)
 
 **Thurs May 4**
 * Assignment 4: Studio Project - preliminary presentations /critiques (groups 6-9)
+* Read: [Nora Khan _"Towards A Poetics Of Artificial Superintelligence"_](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
+* Skim: [Douglas Engelbart _"Augmenting Human Intelligence: A Conceptual Framework"_](https://github.com/publicityreform/findbyimage/blob/master/readings/engelbart.pdf)
 
 **Tues May 9**
 * Assignment 3: White Paper presentation - group 3
