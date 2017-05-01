@@ -47,7 +47,11 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [Paul Ryan _"The Earthscore Notational System"_](http://www.earthscore.org/themes.html)
 
+[Nora Khan _"Towards A Poetics Of Artificial Superintelligence"_](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
+
 [Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
+
+[Paulo Freire _"Pedagogy of the Oppressed"_ (Excerpt)](freire.pdf)
 
 [_"The Shell"_ A Conversation between Isaa Samb and Antje Majewski](http://www.antjemajewski.de/2010/10/16/the-shell-a-conversation-between-issa-samb-and-antje-majewski-dakar-2010/)
 
@@ -61,3 +65,17 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 # textbooks:
 
 [Ian Goodfellow and Yoshua Bengio and Aaron Courville _"Deep Learning"_](http://www.deeplearningbook.org/)
+
+# not restricted to machine learning, but great reading lists / syllabi around technology / speculative futures:
+
+[Speculating Futures](http://speculatingfutures.club/)
+
+[Chris Novello's "Computer Utopias" Class](http://chrisnovello.com/teaching/risd/computer-utopias/)
+
+[Lauren McCarthy "Security, Surveillence, and Privacy" Class](https://github.com/lmccart/SocialHacking/wiki/Security,-surveillance,-and-privacy)
+
+[Allison Burtch's "Critical Theory of Technology" Class](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md)
+
+[artsec bibliography](https://docs.google.com/document/d/1pIzAObj4aYdRBtgS0MTTW73suGmAUqUQk2_gYwyn2To/edit#heading=h.kc6lw6pxuhrt)
+
+
