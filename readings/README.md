@@ -20,8 +20,11 @@ roadmap: [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Dee
 
 ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
+# blogs
+
 [distill](http://distill.pub/)
 
+[artists and machine intelligence](https://medium.com/artists-and-machine-intelligence)
 
 # theory / context:
 
@@ -65,6 +68,8 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 # textbooks:
 
 [Ian Goodfellow and Yoshua Bengio and Aaron Courville _"Deep Learning"_](http://www.deeplearningbook.org/)
+
+[Machine Learning for Artists](https://ml4a.github.io/index/)
 
 # not restricted to machine learning, but great reading lists / syllabi around technology / speculative futures:
 
