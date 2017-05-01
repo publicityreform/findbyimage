@@ -14,7 +14,8 @@ the post is written in [markdown](https://github.com/adam-p/markdown-here/wiki/M
 
 you can identify the YAML front matter by the three lines that mark its beginning and end. here's the front matter from this post:
 
-```---
+```
+---
 layout: post
 title:  "post to blog using github and jekyll"
 date:   2017-05-01 01:52:15 -0700
