@@ -20,7 +20,8 @@ title:  "post to blog using github and jekyll"
 date:   2017-05-01 01:52:15 -0700
 tags: [Github, jekyll]
 categories: [howto]
----```
+---
+```
 
 it is important that each post have this front matter, specifying: 
 - the layout (`post`)
