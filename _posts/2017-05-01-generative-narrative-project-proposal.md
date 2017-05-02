@@ -16,11 +16,15 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Does continuity matter? How would it be measured?
   * What aspects of human-based creation and ideation are applicable or relevant?
   * Should narrative generation cater to a human audience? If not, then who?
+  * How much of the human in A.I. can be removed?
+  * What purpose can generated narratives serve?
+  * How does this contribute to ideas around authorship?
   
 ##Answers We Hope to Find:
   * How a computer will parse human narratives.
   * How different narrative types are categorized.
   * What the objective & subjective results will be.
+  * Whether generative narrative has a place in media / art consumption.
   
 ##Topics of Interest:
   * Video Editing (Cutting and Sequencing – refer to the history of Montage)
@@ -32,10 +36,15 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Abstract Narrative
 
 ##Potential Routes / Learning Models:
-  * Unsupervised Sentiment
+  * [Unsupervised Sentiment] (https://blog.openai.com/unsupervised-sentiment-neuron/)
   * Object Recognition
   * [VideoGAN] (https://github.com/cvondrick/videogan)
   * T-SNE for similar video / sound / word structures
+  
+##Intended Outcomes:
+  * To generate content of a similar variety to the data it is trained on.
+  * To edit, remix, or generate narrative based on learned relationships, structures, objects.
+  * To perhaps break out of the system and yield unexpected or emergent results (one can dream).
 
 ##Data:
   * Films (Classical / Auteur / Blockbuster / Foreign / etc.)
@@ -52,4 +61,6 @@ The project has potential to be split up, combined, and juxtaposed in several wa
   * By medium
   * By methodology
 No designation has been made yet.
-  
+
+##Success / Failure:
+A human-based understanding of success / failure may focus on whether the produced content is logical, meaningful, and original. However, these are limited perspectives, and one might question whether originality can be judged, who can claim authorship, if authorship is important, and how narrative can look outside of a human environment.
