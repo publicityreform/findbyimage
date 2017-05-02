@@ -6,9 +6,6 @@ layout: default
  <ul class="post-list">
      {% for page in site.pages %}
 {% if page.title == "Syllabus" %}
-         <h2>
-           {{ page.title | escape }}
-         </h2>
          {{ page.content | markdownify }}
    {% endif %}
    {% endfor %}
