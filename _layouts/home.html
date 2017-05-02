@@ -2,4 +2,15 @@
 layout: default
 ---
 
-{% include_relative /syllabus.md %}
+<div class="home">
+ <ul class="post-list">
+     {% for page in site.pages %}
+{% if page.title == "syllabus" %}
+         <h2>
+           {{ page.title | escape }}
+         </h2>
+         {{ page.content }}
+   {% endif %}
+   {% endfor %}
+   </ul>
+</div>
