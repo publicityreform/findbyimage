@@ -27,7 +27,7 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Whether generative narrative has a place in media / art consumption.
   
 ##Topics of Interest:
-  * Video Editing (Cutting and Sequencing – refer to the history of Montage)
+  * Video Editing / Cutting and Sequencing – [The Kuleshov Effect] (https://www.youtube.com/watch?v=ruoPT9JeYHA)
   * Video Generation (From Noise)
   * Dialogue / Narration
   * Sound Generation
@@ -59,7 +59,8 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
 The project has potential to be split up, combined, and juxtaposed in several ways:
   * By genre
   * By medium
-  * By methodology
+  * By methodology  
+  
 No designation has been made yet.
 
 ##Success / Failure:
