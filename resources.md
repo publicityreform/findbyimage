@@ -161,3 +161,4 @@ some of these are paid services where you need to create an account. for these p
 
 # various links from class
 * [midnight oil](https://creators.vice.com/en_us/article/shaking-chains-algorithmic-filmmaking-youtube-music-video)
+* [Harold Cohen and AARON](http://www.computerhistory.org/atchm/harold-cohen-and-aaron-a-40-year-collaboration/)  
