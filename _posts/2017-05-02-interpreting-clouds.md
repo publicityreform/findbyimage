@@ -6,7 +6,7 @@ tags: [Github, jekyll]
 categories: [projects]
 ---
 
-#Interpreting Clouds
+# Interpreting Clouds
 ##### Rosalind, Sophia and Zoe
 
 
