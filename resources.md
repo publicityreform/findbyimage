@@ -159,4 +159,5 @@ some of these are paid services where you need to create an account. for these p
 * [chatbot's life (all about making chatbots)](https://chatbotslife.com/)
 
 
-
+# various links from class
+* [midnight oil](https://creators.vice.com/en_us/article/shaking-chains-algorithmic-filmmaking-youtube-music-video)
