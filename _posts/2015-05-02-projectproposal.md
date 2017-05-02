@@ -12,7 +12,8 @@ categories: [presentation]
 ## points of interest
 * Either a translation of human body language or a technology / bot that would communicate back to you as well
 * Non-verbal communication; a universal entity
-* Reflecting on a modern age of communication of emotions and body notation (text, emojis, etc.) 
+* Reflecting on a modern age of communication that leans on emotions and body notation (text, emojis, etc.) 
+* Interpersonal relationship between human and ai 
 
 ## considering
 * What is the machine version of “sighing”? 
