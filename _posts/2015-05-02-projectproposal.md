@@ -4,7 +4,7 @@ title:  "AA100 Project Proposal"
 artists: Chelly, Jack, Youjin
 date:   2017-05-01 01:52:15 -0700
 tags: [Github, AI]
-categories: [presentation]
+categories: [projects]
 ---
 
 # non-verbal communication ai : body language
