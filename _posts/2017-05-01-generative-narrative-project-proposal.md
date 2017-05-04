@@ -10,7 +10,7 @@ categories: [projects]
 
 Narrative can take on many shapes and sizes; people who want to elevate their own work will often resort to calling themselves "storytellers" within their profession. But what does storytelling mean? How far can it be stretched? How are stories and narratives generated? 
 
-## Questions To Explore:
+### Questions To Explore:
   * How is narrative qualified and/or quantified?
   * Is it important to define what narrative means, especially regarding more ambiguous works?
   * What is required for the illusion of continuity / consistency?
@@ -21,13 +21,13 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * What purpose can generated narratives serve?
   * How does this contribute to ideas around authorship?
   
-## Answers We Hope to Find:
+### Answers We Hope to Find:
   * How a computer will parse human narratives.
   * How different narrative types are categorized.
   * What the objective & subjective results will be.
   * Whether generative narrative has a place in media / art consumption.
   
-## Topics of Interest:
+### Topics of Interest:
   * Video Editing / Cutting and Sequencing – [The Kuleshov Effect](https://www.youtube.com/watch?v=ruoPT9JeYHA)
   * Video Generation (From Noise)
   * Dialogue / Narration
@@ -36,18 +36,18 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Generated Thought
   * Abstract Narrative
 
-## Potential Routes / Learning Models:
+### Potential Routes / Learning Models:
   * [Unsupervised Sentiment](https://blog.openai.com/unsupervised-sentiment-neuron/)
   * Object Recognition
   * [VideoGAN](https://github.com/cvondrick/videogan)
   * T-SNE for similar video / sound / word structures
   
-## Intended Outcomes:
+### Intended Outcomes:
   * To generate content of a similar variety to the data it is trained on.
   * To edit, remix, or generate narrative based on learned relationships, structures, objects.
   * To perhaps break out of the system and yield unexpected or emergent results (one can dream).
 
-## Data:
+### Data:
   * Films (Classical / Auteur / Blockbuster / Foreign / etc.)
   * Screenplays
   * Novels
@@ -55,8 +55,9 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Tweets / Texts / Updates
   * Music
   * Speech
+  * Vimeo Staff Picks
   
-## Team Distribution:
+### Team Distribution:
 The project has potential to be split up, combined, and juxtaposed in several ways:
   * By genre
   * By medium
@@ -64,6 +65,13 @@ The project has potential to be split up, combined, and juxtaposed in several wa
   
 No designation has been made yet.
 
-## Success / Failure:
+### Success / Failure:
 
 A human-based understanding of success / failure may focus on whether the produced content is logical, meaningful, and original. However, these are limited perspectives, and one might question whether originality can be judged, who can claim authorship, if authorship is important, and how narrative can look outside of a human environment.
+
+### Reference Points for Further Investigation:  
+  * [Benjamin, the AI that wrote _Sunspring_](http://benjamin.wtf/)
+  * [Adventures in Narrated Reality](https://medium.com/artists-and-machine-intelligence/adventures-in-narrated-reality-6516ff395ba3)
+  * [PoetRNN](http://sballas8.github.io/2015/08/11/Poet-RNN.html)
+  * [Continuous Video Classification](https://medium.com/@harvitronix/continuous-video-classification-with-tensorflow-inception-and-recurrent-nets-250ba9ff6b85)
+  * [Stump Speech](http://whitneyannetrettien.com/stumpspeech/)
