@@ -20,6 +20,11 @@ roadmap: [Deep-Learning-Papers-Reading-Roadmap](https://github.com/songrotek/Dee
 
 ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
+# blogs
+
+[distill](http://distill.pub/)
+
+[artists and machine intelligence](https://medium.com/artists-and-machine-intelligence)
 
 # theory / context:
 
@@ -39,7 +44,27 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [Anil Bawa-Cavia _"The Inclosure of Reason"_](http://technosphere-magazine.hkw.de/article1/6aefb210-0ee6-11e7-a253-d9923802c14e)
 
+[Allison Parrish _"Exploring (Semantic) Space With (Literal) Robots"_](http://opentranscripts.org/transcript/semantic-space-literal-robots/) 
+
+[Christopher Olah _"Visualizing Representations: Deep Learning For Humans"_](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
+
+[Nora Khan _"Towards A Poetics Of Artificial Superintelligence"_](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
+
+[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_ (complete text)](engelbart.pdf) 
+
+[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_ (excerpt, with biographical notes)](engelbart-2.pdf) 
+
+[Paul Ryan _"The Earthscore Notational System"_](http://www.earthscore.org/themes.html)
+
+[Antoinette Rouvroy _"The End(s) Of Critique: Data-behaviourism vs. Due-process"_](rouvroy.pdf)
+
 [Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
+
+[Paulo Freire _"Pedagogy of the Oppressed"_ (Excerpt)](freire.pdf)
+
+[_"The Shell"_ A Conversation between Isaa Samb and Antje Majewski](http://www.antjemajewski.de/2010/10/16/the-shell-a-conversation-between-issa-samb-and-antje-majewski-dakar-2010/)
+
+[_"Animism"_ Exhibition Catalog](http://www.hkw.de/media/en/texte/pdf/2012_1/programm_5/animismus_booklet.pdf)
 
 [Julia Angwin, Jeff Larson, Surya Mattu and Lauren Kirchner, ProPublica _"Machine Bias"_](https://www.propublica.org/article/machine-bias-risk-assessments-in-criminal-sentencing)
 
@@ -49,3 +74,19 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 # textbooks:
 
 [Ian Goodfellow and Yoshua Bengio and Aaron Courville _"Deep Learning"_](http://www.deeplearningbook.org/)
+
+[Machine Learning for Artists](https://ml4a.github.io/index/)
+
+# not restricted to machine learning, but great reading lists / syllabi around technology / speculative futures:
+
+[Speculating Futures](http://speculatingfutures.club/)
+
+[Chris Novello's "Computer Utopias" Class](http://chrisnovello.com/teaching/risd/computer-utopias/)
+
+[Lauren McCarthy "Security, Surveillence, and Privacy" Class](https://github.com/lmccart/SocialHacking/wiki/Security,-surveillance,-and-privacy)
+
+[Allison Burtch's "Critical Theory of Technology" Class](https://github.com/allisonburtch/Critical-Theory-of-Technology/blob/master/syllabus.md)
+
+[artsec bibliography](https://docs.google.com/document/d/1pIzAObj4aYdRBtgS0MTTW73suGmAUqUQk2_gYwyn2To/edit#heading=h.kc6lw6pxuhrt)
+
+

@@ -10,15 +10,18 @@ Tues and Thurs 2-4:50pm
 
 Office Hours:Tues 12-1pm Room 4256 
 
-[Overview](#Overview)
-[Assignment 1 - art and technology](#Assignment1)
-[Assignment 2 - everyday AI](#Assignment2)
-[Assignment 3 - whitepaper presentations](#Assignment3)
-[Assignment 4 - studio project](#Assignment4)
+- [Overview](#Overview)
+- [Schedule](#schedule)
+- [Assignment 1 - art and technology](#assignment-1-art-and-technology)
+- [Assignment 2 - everyday AI](#assignment-2-everyday-ai)
+- [Assignment 3 - white paper presentations](#assignment-3-white-paper-presentations)
+- [Assignment 4 - studio project](#assignment-4-studio-project)
+- [Additional Course Materials and Readings](#additional-course-materials-and-readings)
+
 
 # Overview:
 
-This studio-based course aims to introduce machine learning—a complex and quickly evolving field—to artists, designers and performers.The goal of this course will be to unpack and familiarize ourselves with available machine learning tools, which we will use to plan and produce works of art. In-class labs will open a preliminary investigation into the conceptual and technical underpinnings of key machine learning methods, exploring their application through hands-on demonstrations. Readings and discussions will attempt to connect the theory, practice, and poetics of machine learning, and to place our efforts into wider ethical, social, and art-historical contexts. In the process, we will expand on the general phenomena of learning, experience, and creativity as subject matters in themselves.
+This studio-based course aims to introduce machine learning—a complex and quickly evolving field—to artists, designers and performers. The goal of this course will be to unpack and familiarize ourselves with available machine learning tools, which we will use to plan and produce works of art. In-class labs will open a preliminary investigation into the conceptual and technical underpinnings of key machine learning methods, exploring their application through hands-on demonstrations. Readings and discussions will attempt to connect the theory, practice, and poetics of machine learning, and to place our efforts into wider ethical, social, and art-historical contexts. In the process, we will expand on the general phenomena of learning, experience, and creativity as subject matters in themselves.
 Students are encouraged to pursue a process that continues the development of their own specific artistic practice. However, this course places a strong emphasis on collaboration—because of the interdisciplinary focus of the course, and because realizing artistically viable projects with machine learning will require a bundle of specialized knowledges.Whatever our background, we are each in experimental territory!
 
 # Course Goals:
@@ -31,11 +34,11 @@ Students will be expected to collaborate - to share skills and resources; to doc
 
 # Assignments:
 
-**Assignment 1: Art and Technology** 
+# Assignment 1: Art and Technology
 - To be completed by each individual student and presented in a rapid “show and tell” style.
 - Find an example (either contemporary, or from anytime in the last 50k years or so) of an artwork made concurrently with the emergence of a technology. identify the technology being used. “artwork”, “technology”, and “use” are all terms we can think about expansively. examples of artworks that use machine learning are of course welcome, but not expected. the aim is come up with a common critical and aesthetic framework for talking about art and technology. 
 
-**Assignment 2: Everyday AI** 
+# Assignment 2: Everyday AI
 - To be completed by each individual student and presented in a mode of the student’s choosing for in-class critique (video / photo / text documentation, graphic representation, interactive demo, online, etc)
 - Identify a way that you are already engaging with AI in everyday life. Develop and document a process of exposing (breaking? interrupting? re-directing?) the limits of this AI.
 - In this process, consider the following questions:
@@ -48,19 +51,57 @@ Students will be expected to collaborate - to share skills and resources; to doc
   - What new questions does your interaction with this technology elicit?
 
 
-**Assignment 3: White paper presentations** - In-class discussions led by groups of three.
+# Assignment 3: White paper presentations
+- In-class discussions led by groups of three.
 
-In most class meetings, we will take a deeper look at one technique or concept through the lens of a publication, scientific paper, proposal, or essay. We will be adding to [a collection of white papers]({{site.baseurl}}/readings#technical-reading-whitepapers) for groups to choose from in advance of their presentations.
+White papers (or, variously, “whitepapers”) occupy an interesting literary territory between scientific publication and marketing tool. They serve to explain a specialized topic to a more general audience. A technique or concept may be explained, a problem identified, or a solution proposed. White papers may present experimental evidence that is designed to be independently repeated by readers, or it may only hint at or speculate on possibilities. 
 
-**Assignment 4: Studio Project** - to be completed by groups of three.
+For this assignment, each group of three will choose one paper to present collaboratively in class. The goal of your presentation should be to attempt a deeper understanding of new and interesting projects in the field of AI in general, and machine learning in specific. Your choice of paper should be based on your own curiosities, rather than any prior understanding or specialized knowledge.  
 
-This is the primary project that each student will complete over the course of the class. Each project should start with an essential question related the poetics of machine learning, and progress towards becoming an artwork that makes use of machine learning techniques.
+some possible questions to address in your presentation:
+- what is the “problem” being presented by the paper? this may be presented as an “opportunity” instead of a problem - read carefully :)
+- what methods, materials, and concepts are involved in solving this problem, or pursuing this opportunity? how open is access to these materials and methods?
+- assume the paper is a marketing tool - what is the product? 
+- how does the paper place itself in context (what can you tell from its tone, references to prior work, footnotes, etc?)
+- are there other keywords or tags that you would apply to this paper to help other audiences find it?
 
-This project will be presented three times,  first as a **proposal**, second as a **proof of concept**, and third as a **finished artwork**. The design and final form of this project is completely up to the collaborative group, but should be a consideration from the proposal stage on. In-class critiques at each stage will help guide the group to refine their initial proposal and working process, and to make full use of available resources.
+walk us through the paper in detail. bring in supplementary materials / images / references if it is helpful. this is an exercise in literacy-building from multiple angles.
 
+as for where to find papers, i'd like to focus on AI/machine learning/deep learning, but this can encompass all aspects from math to social science to ethics to infrastructure to design... it's a broad field for sure. i've listed a few sources [here]({{site.baseurl}}/readings#technical-reading-whitepapers). also, [arXiv](https://arxiv.org/) is a terrific repository of scientific papers - try searching for terms that interest you. ideally, we'll start with newer work: if the paper is older than 6 months or so, try to determine if newer work has been published that updates or revises the original publication.
+
+# Assignment 4: Studio Project
+
+FINAL PROJECT
+
+This is the primary project that each student will complete for the class. Each project should start with an essential question related the poetics of machine learning, and progress towards becoming an artwork that makes critical use of machine learning techniques. What form this artwork takes - an intervention, a toolkit, a model, an exploration, a generative result… etc - is up to you.
+
+- to be worked on in groups of three
+
+- to be presented in three iterations, each of which should be considered as a standalone artwork in its own right. we can look at examples of speculative, ad hoc, and contingent artworks that might give context for how this might work:
+
+**PART ONE: proposal (due 5/2 and 5/4)**
+
+considerations can include technical and critical considerations, without necessarily getting into the practicalities of “how” it will work just yet. to be clear - emphasis should be on a speculative generation of ideas, without worrying about “how” to implement these ideas just yet.
+
+at this stage, the artwork you present should take the form of a presentation, a brainstorm, a sketch or a maquette. at minimum, upload presentation materials (text, image, slideshows, videos, etc) to the course github as a blog post. supplementary (offline) materials are very welcome.
+
+include thoughts about: 
+  - the data that you will use
+  - the form in which this input data will be used
+  - the quality or type of learning that will be employed
+  - the model of learning you are interested in using
+  - the intended outcome (behavior, material, engagement, use, audience, distribution… ?)  
+  - how to evaluate success or failure of this specific project?
+
+**PART TWO: proof of concept (due 5/16 and 5/18)**
+
+**PART THREE: final presentation (due 6/6 and 6/8)**
+
+The final form these collaborative projects take is completely up to the groups. It can be one artwork made collaboratively, one prompt responded to in three different ways, three completely autonomous artworks that share a space, or two separate things with one intermediary, or a chain of processes (one person makes something for the next person to react to) - think expansively about what collaborating means here. 
+
+In-class critiques at each stage can help guide the group to refine their initial proposal and working process, and to make full use of available resources.
 # Additional Course Materials and Readings
-Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques.
-A range of additional resources for learning more about machine learning - textbooks, online courses, tutorials etc. are available [here](/resources.md), and we may make reference to them occasionally as needed.
+Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here](/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
 
 # Grading:
 Grading will be determined as follows:
@@ -90,80 +131,92 @@ Studio projects will be evaluated through in-class critique, based on their arti
 # Attendance:
 If you are going to be late or miss a class, please email before the start of class. Each absence or lateness (more than 15 minutes) without prior notice will drop your grade by a half-step (A to A-, for example).
 
-# Schedule (subject to modification):
+# Schedule 
+(subject to modification):
 
 **Tues April 4**
 * Lecture / Discussion: Overview of AI in general, machine learning in specific
-* Assignment: Questionnaire - A look at our resources (due before Thursday’s class) 
-* Assignment: Find example of artwork that makes use of an emerging technology (due 4/6) 
-* Assignment: Studio Project I (due 4/11 or 4/13)
+* Survey - A look at our resources (due before Thursday’s class) 
+* [Assignment 1: Art and Technology](#assignment-1-art-and-technology)) (due 4/6) 
+* [Assignment 2: Everyday AI](#assignment-2-everyday-ai) (due 4/11 or 4/13)
 
 **Thurs April 6**
 * [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice]({{site.baseurl}}/Day-2-Notes.html) 
-* Lab: Using and Sharing via GitHub; Overview of software tools to be used in class; Using the course website and online resources
+* [Lab: Using and Sharing via GitHub](https://publicityreform.github.io/findbyimage/how-to-use-github.html); Overview of software tools to be used in class; Using the course website and online resources
+* Read: [Gilbert Simondon _“Technical Mentality”_](/readings/simondon.pdf)
+* Read: [Friedrich Kittler _“There Is No Software”_](/readings/kittler.pdf)
 
 **Tues April 11**
-* Studio Project I - presentations / critiques
+* Assignment 2: Everyday AI - presentations / critiques
 * [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets]({{site.baseurl}}/Day-3-Notes.html)
+* Read: [Hito Steyerl _“A Sea Of Data: Apophenia And Pattern (Mis-)Recognition”_](/readings/steyerl.pdf)
+* Read: [David Rumelhart _“The Architecture Of Mind: A Connectionist Approach”_](/readings/rumelhart.pdf)
 
 **Thurs April 13**
-* Studio Project I - presentations / critiques
+* [Assignment 2: Everyday AI](#assignment-2-everyday-ai) - presentations / critiques
 * Lab: Neural Network Zoo pt 2 - making “toy” networks
 
 **Tues April 18**
-* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware](({{site.baseurl}}/Day-4-Notes.html)
+* [Assignment 2: Everyday AI](#assignment-2-everyday-ai) - presentations / critiques
+* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware]({{site.baseurl}}/Day-5-Notes.html)
+* Read: [Donna Haraway _“A Cyborg Manifesto”_](/readings/haraway.pdf)
+* Read: [Jean-François Lyotard _“The Inhuman”_ (excerpts) Introduction: _“About The Human”_ & Ch 1. _“Can Thought Go On Without A Body?”_](/readings/simondon.pdf)
 
 **Thurs April 20**
-* White Paper presentation - group 1
-* Lab: Optimizing, Filtering, Encoding - abstracting for usefulness
+* [Lab: Optimizing, Filtering, Encoding - abstracting for usefulness]({{site.baseurl}}/Day-6-Notes.md)
+* Read: [Anil Bawa-Cavia _"The Inclosure of Reason"_](http://technosphere-magazine.hkw.de/article1/6aefb210-0ee6-11e7-a253-d9923802c14e)
 
 **Tues April 25**
-* White Paper presentation - group 2
-* Lab: Supervised and Unsupervised Networks
+* Assignment 3: White Paper presentation - group 1
+* [Lab: Word2Vec, T-sne - abstracting for usefulness part 2]({{site.baseurl}}/Day-7-Notes.md)
 
 **Thurs April 27**
-* White Paper presentation - group 3 
-* Lab: Convolutional Networks
+* Assignment 3: White Paper presentation - group 2 
+* [Lab: Convolutional Neural Networks]({{site.baseurl}}/Day-8-Notes.md)
 
 **Tues May 2**
-* Studio Project II - preliminary presentations / critiques
+* Assignment 4: Studio Project - preliminary presentations / critiques (groups 1-5)
 
 **Thurs May 4**
-* Studio Project II - preliminary presentations /critiques
+* Assignment 4: Studio Project - preliminary presentations /critiques (groups 6-9)
+* Read: [Nora Khan _"Towards A Poetics Of Artificial Superintelligence"_](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
+* Skim: [Douglas Engelbart _"Augmenting Human Intelligence: A Conceptual Framework"_](https://github.com/publicityreform/findbyimage/blob/master/readings/engelbart.pdf)
 
 **Tues May 9**
-* White Paper presentation - group 4
-* Lab: Sequence Models - Considering time and other kinds of order
+* Assignment 3: White Paper presentation - group 3
+* Lab: TBD
 
 **Thurs May 11**
-* White Paper presentation - group 5 
-* Lab: Generative Networks
+* Assignment 3: White Paper presentation - group 4 
+* Lab: TBD
 
 **Tues May 16**
-* White Paper presentation - group 6
-* Studio Project II - proof of concept presentations
-* Lab: Deep Dream and Latent Space - peeking into hidden layers
+* Assignment 3: White Paper presentation - group 5
+* Assignment 4: Studio Project - proof of concept presentations (groups 1-5)
+* Lab: TBD
 
 **Thurs May 18**
-* White Paper presentation - group 7
-* Studio Project II - proof of concept presentations Lab: Style Transfer - separating content from form
+* Assignment 3: White Paper presentation - group 6
+* Assignment 4: Studio Project - proof of concept presentations (groups 6-9)
+* Lab: TBD
 
 **Tues May 23**
-* White Paper presentation - group 8
-* Lab:Working With Datasets - critical and practical considerations
+* Assignment 3: White Paper presentation - group 7
+* Lab: TBD
 
 **Thurs May 25**
-* White Paper presentation - group 9
-* Lab: Scaling up - using deep neural networks on cloud computing platorms
+* Assignment 3: White Paper presentation - group 8
+* Lab: TBD
 
 **Tues May 30**
+* Assignment 3: White Paper presentation - group 9
 * Lab: work on studio projects
 
 **Thurs June 1**
 * Lab: work on studio projects
 
 **Tues June 6**
-* Studio Project II - Final presentations / critiques
+* Assignment 4: Studio Project - Final presentations / critiques (groups 1-5)
 
 **Thurs June 8**
-* Studio Project II - Final presentations / critiques
+* Assignment 4: Studio Project - Final presentations / critiques (groups 6-9)
