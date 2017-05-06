@@ -7,7 +7,7 @@ categories: [Notes]
 ---
 # various links from class:
 
-* https://en.wikipedia.org/wiki/Tree_That_Owns_Itself
+* [Tree that owns itself](https://en.wikipedia.org/wiki/Tree_That_Owns_Itself)
 * [rune madsen _"tiny artists"_](https://runemadsen.com/work/tiny-artists-456/)
 * claude shannon + marvin minsky's "ultimate machine":
 <iframe width="560" height="315" src="https://www.youtube.com/embed/G5rJJgt_5mg" frameborder="0" allowfullscreen></iframe>
