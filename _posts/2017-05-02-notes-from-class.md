@@ -6,7 +6,19 @@ tags: [art history]
 categories: [Notes]
 ---
 
-a few propositional, contingent, description- or instruction-based artworks:
+# various links from class
+* Anne Carson "A History Of Skywriting"
+<iframe src="https://player.vimeo.com/video/166274331?title=0&byline=0&portrait=0" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+* [midnight oil](https://creators.vice.com/en_us/article/shaking-chains-algorithmic-filmmaking-youtube-music-video)
+* [Harold Cohen and AARON](http://www.computerhistory.org/atchm/harold-cohen-and-aaron-a-40-year-collaboration/)  
+* http://www.gif.gf/
+* christine meinders [http://cargocollective.com/christinemeinders/Christine-Meinders-1]
+* [skeumorphism and AI](https://uxdesign.cc/the-new-skeuomorphism-is-in-your-voice-assistant-3b14a6553a0e)
+* [bruno munari _"speak italian: the fine art of the gesture"_](https://www.brainpickings.org/2012/12/13/bruno-munari-speak-italian-gestures/)
+
+# a few examples of propositional, contingent, description- or instruction-based artworks:
+
+
 
 Yoko Ono _"Painting To Let The Evening Light Go Through"_ (1966)
 
