@@ -19,6 +19,7 @@ permalink: /resources/
 * <a href="https://magenta.tensorflow.org/welcome-to-magenta">google magenta</a><br>
 * <a href="https://research.fb.com/">research.fb.com</a><br>
 * <a href="http://www.fastforwardlabs.com/">fast forward labs</a><br>
+* [openAI gym (for testing out reinforcement learning algorithms)](https://gym.openai.com/)
 
 # tools / libraries / packages:
 * <a href="https://github.com/floydhub/dl-docker">deep learning docker container (more info [here]({{site.baseurl}}/DL-Docker.html))</a><br>
@@ -159,6 +160,4 @@ some of these are paid services where you need to create an account. for these p
 * [chatbot's life (all about making chatbots)](https://chatbotslife.com/)
 
 
-# various links from class
-* [midnight oil](https://creators.vice.com/en_us/article/shaking-chains-algorithmic-filmmaking-youtube-music-video)
-* [Harold Cohen and AARON](http://www.computerhistory.org/atchm/harold-cohen-and-aaron-a-40-year-collaboration/)  
+
