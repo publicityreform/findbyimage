@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Day 9 Notes"
+title:  "Day 9 In-class Notes"
 date:   2017-05-02 21:52:15 -0700
 tags: [art history]
 categories: [Notes]
