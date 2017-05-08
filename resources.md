@@ -12,10 +12,10 @@ permalink: /resources/
 * [Opendot Fablab "Machine Learning" Playlist](https://www.youtube.com/playlist?list=PLKM8s0R6CRiRHPq076cXCuitDkd_UGir9)
 
 # creative work / research:
-* <a href="http://www.creativeai.net/">creativeAI</a><br>
 * <a href="http://genekogan.com/alt-AI/">altAI conference</a><br>
 * <a href="https://openai.com/">openAI</a><br>
 * <a href="https://deepmind.com/blog/wavenet-generative-model-raw-audio/">wavenet</a><br>
+* <a href="http://www.creativeai.net/">creativeAI</a><br>
 * <a href="https://magenta.tensorflow.org/welcome-to-magenta">google magenta</a><br>
 * <a href="https://research.fb.com/">research.fb.com</a><br>
 * <a href="http://www.fastforwardlabs.com/">fast forward labs</a><br>
@@ -77,6 +77,7 @@ some of these are paid services where you need to create an account. for these p
 * [superscript](http://superscriptjs.com/)
   - node.js-based chat agent
 * [clarifai (visual recognition API)](https://www.clarifai.com/)
+* [lyrebird (speech style transfer)](https://lyrebird.ai/)
   
 # projects:
 * [pix2pix](https://affinelayer.com/pixsrv/)
@@ -105,6 +106,7 @@ some of these are paid services where you need to create an account. for these p
 * [morphing faces](http://vdumoulin.github.io/morphing_faces/online_demo.html)
 * [@zero_likes](http://samhains.com/zero-likes.html)
 * [vid2speech](https://github.com/arielephrat/vid2speech)
+
 
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
