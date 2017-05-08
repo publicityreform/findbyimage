@@ -106,7 +106,7 @@ some of these are paid services where you need to create an account. for these p
 * [morphing faces](http://vdumoulin.github.io/morphing_faces/online_demo.html)
 * [@zero_likes](http://samhains.com/zero-likes.html)
 * [vid2speech](https://github.com/arielephrat/vid2speech)
-
+* [AIY (raspberry pi-based AI kit from google)](https://aiyprojects.withgoogle.com/)
 
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
