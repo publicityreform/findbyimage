@@ -183,36 +183,47 @@ If you are going to be late or miss a class, please email before the start of cl
 * Skim: [Douglas Engelbart _"Augmenting Human Intelligence: A Conceptual Framework"_](https://github.com/publicityreform/findbyimage/blob/master/readings/engelbart.pdf)
 
 **Tues May 9**
-* Assignment 3: White Paper presentation - group 3
-* Lab: TBD
+* Lab: Sequence Models - Considering time and other kinds of order using RNN's
 
 **Thurs May 11**
+* Assignment 3: White Paper presentation - group 3
 * Assignment 3: White Paper presentation - group 4 
 * Lab: TBD
+* Read: [Valentino Braitenberg _"Vehicles"_ (excerpt)](https://github.com/publicityreform/findbyimage/blob/master/readings/braitenberg.pdf)
+* Read: [Matteo Pasquinelli  _"Abnormal Encephalization in the Age of Machine Learning"_](https://github.com/publicityreform/findbyimage/blob/master/readings/pasquinelli.pdf)
 
 **Tues May 16**
-* Assignment 3: White Paper presentation - group 5
 * Assignment 4: Studio Project - proof of concept presentations (groups 1-5)
-* Lab: TBD
 
 **Thurs May 18**
-* Assignment 3: White Paper presentation - group 6
 * Assignment 4: Studio Project - proof of concept presentations (groups 6-9)
-* Lab: TBD
+* Read: [Orit Halpern _"The Trauma Machine"_](https://github.com/publicityreform/findbyimage/blob/master/readings/halpern.pdf)
+* Read: [Jacques Lacan _"Psychoanalysis and Cybernetics"_](https://github.com/publicityreform/findbyimage/blob/master/readings/lacan.pdf)
+* Read (extra): [Reza Negarastani _"An Outside View of Ourselves as a Toy Model AGI"_](https://github.com/publicityreform/findbyimage/blob/master/readings/negarestani.pdf)
 
 **Tues May 23**
-* Assignment 3: White Paper presentation - group 7
+* Assignment 3: White Paper presentation - group 5
+* Assignment 3: White Paper presentation - group 6
 * Lab: TBD
 
 **Thurs May 25**
-* Assignment 3: White Paper presentation - group 8
+* Assignment 3: White Paper presentation - group 7
 * Lab: TBD
+* Read: [Katherine Hayles _"Cognition everywhere"_](https://github.com/publicityreform/findbyimage/blob/master/readings/hayles.pdf)
+* Read: [Antoinette Rouvroy _"The Ends Of Critique: Data-Behaviourism vs Due-Process"_](https://github.com/publicityreform/findbyimage/blob/master/readings/rouvroy.pdf)
+* Read: [Paul Ryan _"Earthscore Notational System"_](http://www.earthscore.org/themes.html)
+* Read (extra): [Stanislav Lem _"Summa Technologiae"_](https://github.com/publicityreform/findbyimage/blob/master/readings/lem.pdf)
+
 
 **Tues May 30**
-* Assignment 3: White Paper presentation - group 9
+* Assignment 3: White Paper presentation - group 8
 * Lab: work on studio projects
+* Read: [Paulo Freire _"Pedagogy of the Oppressed"_ (Chapter 3)](https://github.com/publicityreform/findbyimage/blob/master/readings/freire.pdf
+* Read: [Jacques Ranciere _"The Ignorant Schoolmaster"_ (excerpt)]
+
 
 **Thurs June 1**
+* Assignment 3: White Paper presentation - group 9
 * Lab: work on studio projects
 
 **Tues June 6**
