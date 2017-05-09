@@ -48,11 +48,15 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [Christopher Olah _"Visualizing Representations: Deep Learning For Humans"_](http://colah.github.io/posts/2015-01-Visualizing-Representations/)
 
-[Paul Ryan _"The Earthscore Notational System"_](http://www.earthscore.org/themes.html)
-
 [Nora Khan _"Towards A Poetics Of Artificial Superintelligence"_](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
 
-[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_](engelbart.pdf)
+[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_ (complete text)](engelbart.pdf) 
+
+[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_ (excerpt, with biographical notes)](engelbart-2.pdf) 
+
+[Paul Ryan _"The Earthscore Notational System"_](http://www.earthscore.org/themes.html)
+
+[Antoinette Rouvroy _"The End(s) Of Critique: Data-behaviourism vs. Due-process"_](rouvroy.pdf)
 
 [Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
 

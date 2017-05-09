@@ -16,8 +16,9 @@
 
       <div class="trigger">
      
-        {% for page in site.pages %}
-          {% if page.title != "Syllabus" %}
+        {% for page in site.pages | group_by:"page.title"  %}
+          {% if page.title != "Syllabus"%}
+        
           <a class="page-link" href="{{ page.url | relative_url }}">{{ page.title | escape }}</a>
           {% endif %}
         {% endfor %}
