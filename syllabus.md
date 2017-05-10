@@ -94,6 +94,15 @@ include thoughts about:
   - how to evaluate success or failure of this specific project?
 
 **PART TWO: proof of concept (due 5/16 and 5/18)**
+- “proof of concept” means getting concrete with the ideas and curiosities you presented in the first stage. 
+
+*Expectations: 
+- You have identified the core question or objective that your collaboration seeks to address. This core objective can be as abstract or poetic as you like, but it should be concise - a 1-2 sentence question: a what-if, a prompt, or a call to action. 
+- You have identified what the role and workflow for each collaborator will be. 
+- You have each begun to test out ways of forming a response to this objective, and in the process, generated a small body of work. Bring evidence of these tests (models, scripts, sketches, hacks, mock-ups, plans, maps, drawings, notes, recordings, etc). “Response” could be interpreted as carrying a question further and further, or trying to solve a problem, or just feeling out what’s possible - it situates the objective in actions. In this sense, failed attempts are more useful than plans yet to be enacted.
+- Bring questions for us! Think of this as time to test things on a very forgiving audience. 
+- You have a general sense of the final form(s) your project will take - what will it look / sound / feel / smell / taste like? where will it be? how will it act? will it be material or immaterial? permanent or temporary? public or private? will it take time to experience, is it instantaneous, or does it emerge? basic questions, broad possibilities - good to set a path; experiments with form are also valuable to bring to this presentation!
+- as before, please (in addition to any other presentation materials you bring) [make a post](https://github.com/publicityreform/findbyimage/tree/master/_posts) in the class repository
 
 **PART THREE: final presentation (due 6/6 and 6/8)**
 
