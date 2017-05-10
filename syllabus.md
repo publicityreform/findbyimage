@@ -96,7 +96,7 @@ include thoughts about:
 **PART TWO: proof of concept (due 5/16 and 5/18)**
 - “proof of concept” means getting concrete with the ideas and curiosities you presented in the first stage. 
 
-*Expectations: 
+Expectations: 
 - You have identified the core question or objective that your collaboration seeks to address. This core objective can be as abstract or poetic as you like, but it should be concise - a 1-2 sentence question: a what-if, a prompt, or a call to action. 
 - You have identified what the role and workflow for each collaborator will be. 
 - You have each begun to test out ways of forming a response to this objective, and in the process, generated a small body of work. Bring evidence of these tests (models, scripts, sketches, hacks, mock-ups, plans, maps, drawings, notes, recordings, etc). “Response” could be interpreted as carrying a question further and further, or trying to solve a problem, or just feeling out what’s possible - it situates the objective in actions. In this sense, failed attempts are more useful than plans yet to be enacted.
