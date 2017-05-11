@@ -99,4 +99,6 @@ A human-based understanding of success / failure may focus on whether the produc
   * Generate music and lyrics trained on different sources.
   * Generating images through PixelRNN, then feeding them into neural storyteller to see what narrative will be produced.
   * Affecting an image via VideoGAN, then observing the changes between narratives produced by neural storyteller or some other CNN / labelling network.  
-
+  * Create characters and allow a network to generate a story – under the ideology that "narratives" rely on characters.
+  * Algorithm as its own character: self-narrating / consciousness. Trained on journal entries, or first-narrated novels.
+  * Recursively training itself on its own data!!!??
