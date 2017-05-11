@@ -58,6 +58,7 @@ Narrative can take on many shapes and sizes; people who want to elevate their ow
   * Vimeo Staff Picks
   
 ### Team Distribution:
+
 The project has potential to be split up, combined, and juxtaposed in several ways:
   * By genre
   * By medium
@@ -85,3 +86,17 @@ A human-based understanding of success / failure may focus on whether the produc
   * [Generating Images Based on Text](https://www.digitaltrends.com/cool-tech/ai-generates-images-based-on-text/)
   * [Neural Talk Sentence Generation](http://cs.stanford.edu/people/karpathy/deepimagesent/generationdemo/)
   * [Sequence Generation](https://medium.com/artists-and-machine-intelligence/ami-residency-part-2-realtime-control-of-sequence-generation-with-recurrent-neural-network-88448dde3500)
+  
+### Early Proposals:
+
+#### Routes:
+  * Human writes narrative(s), machine visualizes – Human trains machine to tell stories to machine.
+  * Machine writes narrative(s), human visualizes – Machine trains human to tell stories to the machine.
+  * Machine writes narrative(s), machine visualizes – Machine trains machine to tell stories to the machine.
+
+#### Methods
+  * Generating a text script with CharRNN for PixelRNN to generate imagery.
+  * Generate music and lyrics trained on different sources.
+  * Generating images through PixelRNN, then feeding them into neural storyteller to see what narrative will be produced.
+  * Affecting an image via VideoGAN, then observing the changes between narratives produced by neural storyteller or some other CNN / labelling network.  
+
