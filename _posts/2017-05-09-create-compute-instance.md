@@ -27,8 +27,18 @@ second: add this key to an ssh config file on your local computer:
 
 # install anaconda in your home directory on the cloud instance:
 
-`wget https://repo.continuum.io/archive/Anaconda2-4.3.1-Linux-x86_64.sh`
-`bash Anaconda2-4.3.1-Linux-x86_64.sh`
+get the 
+- `wget https://repo.continuum.io/archive/Anaconda2-4.3.1-Linux-x86_64.sh`
+then once the installer has finished copying:
+- `bash Anaconda2-4.3.1-Linux-x86_64.sh`
+
+`source ~/.bashrc`
+
+# install tensorflow
+
+you can use anaconda to install whatever version of tensorflow works with your project. some older repositories may require an earlier version - in the case of sketch-rnn i found this version of tensorflow (0.8) to work ok:
+
+`conda install -c jjhelmus tensorflow=0.8.0rc0`
 
 
 # to move files back and forth from local machine, you can use scp or gcloud:
