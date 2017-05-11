@@ -27,12 +27,18 @@ second: add this key to an ssh config file on your local computer:
 
 # install anaconda in your home directory on the cloud instance:
 
-get the 
+anaconda is a package manager for python that come with many popular python libraries (including jupyter)
+
+get the installer here (using anaconda2 (python 2):
 - `wget https://repo.continuum.io/archive/Anaconda2-4.3.1-Linux-x86_64.sh`
 then once the installer has finished copying:
 - `bash Anaconda2-4.3.1-Linux-x86_64.sh`
 
 `source ~/.bashrc`
+
+# install git
+
+`sudo apt-get install git`
 
 # install tensorflow
 
