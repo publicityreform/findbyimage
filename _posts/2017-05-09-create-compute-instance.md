@@ -34,6 +34,10 @@ get the installer here (using anaconda2 (python 2):
 then once the installer has finished copying:
 - `bash Anaconda2-4.3.1-Linux-x86_64.sh`
 
+say yes to everything.
+
+once installation is finished, type:
+
 `source ~/.bashrc`
 
 # install git
