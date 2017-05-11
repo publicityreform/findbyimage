@@ -12,7 +12,7 @@ for a loose narrative of using RNN's for artistic purposes see [ross goodwin _�
 
 allison parrish: “When we teach computers to write, the computers don’t replace us any more than pianos replace pianists—in a certain way, they become our pens, and we become more than writers. We become writers of writers.”
 
-some thoughts on exploring semantic space with experimental writing from [Allison Parrish](http://opentranscripts.org/transcript/semantic-space-literal-robots/), and [katie rose pipkin](https://medium.com/@katierosepipkin/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233) - see also their [moth generator twitter bot](https://twitter.com/mothgenerator)
+some thoughts on exploring semantic space with experimental writing from [Allison Parrish](http://opentranscripts.org/transcript/semantic-space-literal-robots/), and [katie rose pipkin](https://medium.com/@katierosepipkin/a-long-history-of-generated-poetics-cutups-from-dickinson-to-melitzah-fce498083233) and [another](https://medium.com/@katierosepipkin/language-after-the-writing-machine-f3bff4f73408) - see also their [moth generator twitter bot](https://twitter.com/mothgenerator)
 
 for technical background on RNN's:
 * [intro to RNN’s from andrej karpathy](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
