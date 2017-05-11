@@ -7,7 +7,7 @@ categories: [howto]
 ---
 
 login or create account at
-https://cloud.google.com/
+[https://cloud.google.com/](https://cloud.google.com/)
 
 the goal is to set up a virutal machine that runs tensorflow and jupyter notebook, then to clone a git repository and play with the code / train models /etc
 
