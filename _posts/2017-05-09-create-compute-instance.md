@@ -15,8 +15,22 @@ based on a combination of these two [different](https://haroldsoh.com/2016/04/28
 ) [techniques](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd)
 
 
+# to access the cloud compute instance remotely (from your local computer) you will need to use either ssh or gcloud.
 
-set up ssh tunnel to view jupyter notebooks locally using a browser: 
+first: generate a ssh key on your local computer:
+- `ssh-keygen -t rsa -f ~/.ssh/google_compute_engine -C username`
+
+where google_compute_engine is the name of the key you will be generating (can be anything), and username is the username you use to login to the cloud service.
+
+second: add this key to an ssh config file on your local computer:
+- `echo "IdentityFile ~/.ssh/google_compute_engine" >> ~/.ssh/config`
+
+# to move files back and forth from local machine, you can use scp or gcloud:
+
+for example:
+`gcloud compute copy-files nameofinstance:~/remotefilepath /localfilepath`
+
+# set up ssh tunnel to view jupyter notebooks locally using a browser: 
 
 `$ sudo ssh -i .ssh/google_compute_engine -L 8888:localhost:8888 <username>@<external ip of instance>`
 
@@ -24,12 +38,6 @@ set up ssh tunnel to view jupyter notebooks locally using a browser:
 where 8888 is the port specified in jupyter.config
 
 ------
-
-to move files back and forth from local machine, you can use scp or gcloud:
-
-gcloud compute copy-files instance-1:~/sketch-rnn/output.svg /Users/luke/output.svg
-
-gcloud compute copy-files instance-1:~/sharedfolder/ \sharedfolder/ 
 
 
 ---------
@@ -68,8 +76,4 @@ If the limit is <1.0, then please request an increase in the limit at https://co
 ~$ source ~/.bashrc
 
 
-——
-ssh-keygen -t rsa -f ~/.ssh/google_compute_engine -C lfischbeck
-
-echo "IdentityFile ~/.ssh/google_compute_engine" >> ~/.ssh/config
 
