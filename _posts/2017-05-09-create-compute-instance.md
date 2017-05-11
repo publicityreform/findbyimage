@@ -25,6 +25,12 @@ where google_compute_engine is the name of the key you will be generating (can b
 second: add this key to an ssh config file on your local computer:
 - `echo "IdentityFile ~/.ssh/google_compute_engine" >> ~/.ssh/config`
 
+# install anaconda in your home directory on the cloud instance:
+
+`wget https://repo.continuum.io/archive/Anaconda2-4.3.1-Linux-x86_64.sh`
+`bash Anaconda2-4.3.1-Linux-x86_64.sh`
+
+
 # to move files back and forth from local machine, you can use scp or gcloud:
 
 for example:
