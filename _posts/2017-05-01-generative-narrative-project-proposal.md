@@ -90,7 +90,7 @@ A human-based understanding of success / failure may focus on whether the produc
 ### Early Proposals:
 
 #### Routes:
-  * Human writes narrative(s), machine visualizes – Human trains machine to tell stories to machine.
+  * Human writes narrative(s), machine visualizes – Human trains machine to tell stories to human.
   * Machine writes narrative(s), human visualizes – Machine trains human to tell stories to the machine.
   * Machine writes narrative(s), machine visualizes – Machine trains machine to tell stories to the machine.
 
