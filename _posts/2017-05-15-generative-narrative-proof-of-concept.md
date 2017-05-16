@@ -20,6 +20,7 @@ Focusing on character-driven (first-person) narrative, we will begin with smalle
   - Annie: video-GAN, neural-storyteller
   - Reginald: char-RNN, torch-RNN 
   - Tyler: char-RNN, neural-storyteller  
+
 Presently, we have approached char-RNN and torch-RNN with training data from Albert Camus, Joseph Conrad, Daniel Keyes, Haruki Murakami. After our individual attempts, we will merge our efforts towards the method with the most potential to generate a larger, more cohesive and fully-realized work.
 
 ### Questions
