@@ -110,7 +110,7 @@ The final form these collaborative projects take is completely up to the groups.
 
 In-class critiques at each stage can help guide the group to refine their initial proposal and working process, and to make full use of available resources.
 # Additional Course Materials and Readings
-Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here](/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
+Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here](/readings). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
 
 # Grading:
 Grading will be determined as follows:
@@ -208,7 +208,7 @@ If you are going to be late or miss a class, please email before the start of cl
 * Assignment 4: Studio Project - proof of concept presentations (groups 6-9)
 * Read: [Orit Halpern _"The Trauma Machine"_](https://github.com/publicityreform/findbyimage/blob/master/readings/halpern.pdf)
 * Read: [Jacques Lacan _"Psychoanalysis and Cybernetics"_](https://github.com/publicityreform/findbyimage/blob/master/readings/lacan.pdf)
-* Read (extra): [Reza Negarastani _"An Outside View of Ourselves as a Toy Model AGI"_](https://github.com/publicityreform/findbyimage/blob/master/readings/negarestani.pdf)
+* Read (extra): [Reza Negarestani _"An Outside View of Ourselves as a Toy Model AGI"_](https://github.com/publicityreform/findbyimage/blob/master/readings/negarestani.pdf)
 
 **Tues May 23**
 * Assignment 3: White Paper presentation - group 5
