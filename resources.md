@@ -12,13 +12,14 @@ permalink: /resources/
 * [Opendot Fablab "Machine Learning" Playlist](https://www.youtube.com/playlist?list=PLKM8s0R6CRiRHPq076cXCuitDkd_UGir9)
 
 # creative work / research:
-* <a href="http://www.creativeai.net/">creativeAI</a><br>
 * <a href="http://genekogan.com/alt-AI/">altAI conference</a><br>
 * <a href="https://openai.com/">openAI</a><br>
 * <a href="https://deepmind.com/blog/wavenet-generative-model-raw-audio/">wavenet</a><br>
+* <a href="http://www.creativeai.net/">creativeAI</a><br>
 * <a href="https://magenta.tensorflow.org/welcome-to-magenta">google magenta</a><br>
 * <a href="https://research.fb.com/">research.fb.com</a><br>
 * <a href="http://www.fastforwardlabs.com/">fast forward labs</a><br>
+* [openAI gym (for testing out reinforcement learning algorithms)](https://gym.openai.com/)
 
 # tools / libraries / packages:
 * <a href="https://github.com/floydhub/dl-docker">deep learning docker container (more info [here]({{site.baseurl}}/DL-Docker.html))</a><br>
@@ -74,8 +75,9 @@ some of these are paid services where you need to create an account. for these p
   - evaluates "toxicity" of text
 * [metamind](https://metamind.io/)
 * [superscript](http://superscriptjs.com/)
-  - node-based chat agent
-* [clarifai (visual recognition API)[https://www.clarifai.com/]
+  - node.js-based chat agent
+* [clarifai (visual recognition API)](https://www.clarifai.com/)
+* [lyrebird (speech style transfer)](https://lyrebird.ai/)
   
 # projects:
 * [pix2pix](https://affinelayer.com/pixsrv/)
@@ -104,6 +106,7 @@ some of these are paid services where you need to create an account. for these p
 * [morphing faces](http://vdumoulin.github.io/morphing_faces/online_demo.html)
 * [@zero_likes](http://samhains.com/zero-likes.html)
 * [vid2speech](https://github.com/arielephrat/vid2speech)
+* [AIY (raspberry pi-based AI kit from google)](https://aiyprojects.withgoogle.com/)
 
 # datasets:
 * <a href="http://yann.lecun.com/exdb/mnist/">MNIST</a>
@@ -125,6 +128,7 @@ some of these are paid services where you need to create an account. for these p
 * [kanji vector graphics](http://kanjivg.tagaini.net/)
 * [TU Berlin sketch database (vector graphics or bitmap)](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
 * [small text copora](https://github.com/dariusk/corpora)
+* [drug experiences](https://archive.org/details/erowid-experiences-corpus)
   
 # pre-trained models:
 * [caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
@@ -159,6 +163,4 @@ some of these are paid services where you need to create an account. for these p
 * [chatbot's life (all about making chatbots)](https://chatbotslife.com/)
 
 
-# various links from class
-* [midnight oil](https://creators.vice.com/en_us/article/shaking-chains-algorithmic-filmmaking-youtube-music-video)
-* [Harold Cohen and AARON](http://www.computerhistory.org/atchm/harold-cohen-and-aaron-a-40-year-collaboration/)  
+
