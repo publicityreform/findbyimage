@@ -2,7 +2,7 @@
 layout: post
 title:  "create compute instance using google cloud compute"
 date:   2017-05-09 01:52:15 -0700
-tags: [google cloud compute]
+tags: [google cloud compute, jupyter, anaconda, gcloud]
 categories: [howto]
 ---
 
@@ -24,11 +24,11 @@ each "instance" can be thought of as a reservation for processors, along with so
 
 # to create a new instance
 
-depending on your task, you may need to make a custom instance from scratch. in most cases, you can begin by selecting a pre-set image with some software already installed. select `compute engine > images`. try `ubuntu-1404-trusty-v20170505`. 
+in most cases, you can begin by selecting a pre-set image with some software already installed. select `compute engine > images`. try `ubuntu-1404-trusty-v20170505`. 
 
-to create a custom instance from scratch, select `compute engine > VM instances` from the main menu on the left-hand side. click `create instance`. 
+depending on your task, you may need to make a custom instance from scratch. if you prefer to do this, select `compute engine > VM instances` from the main menu on the left-hand side. click `create instance`, then edit the settings as needed.
 
-whether using a pre-set or a custom image, you will need to specify the location of the instance (try `us-west1-a`) and the number of processors and size of storage (try 1 CPU and 3.75 GB to start with, you can edit to add more later if needed). select `allow https access`.
+whether using a pre-set or a custom image, you will need to specify the location of the instance (try `us-west1-a`) and the number of processors and size of storage (try 1 CPU and 3.75 GB to start with, you can edit to add more later if needed). also select `allow https access`.
 
 once you have created an image, it is launched automatically. 
 
@@ -164,3 +164,5 @@ while connected to your compute instance via `ssh`, use `git` to clone a reposit
 # update or install any dependencies 
 
 you can always use `conda` or `pip` to install or update any dependencies your project requires.
+
+# very important! stop all instances as soon as you are done running them! 
