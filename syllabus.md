@@ -67,7 +67,7 @@ some possible questions to address in your presentation:
 
 walk us through the paper in detail. bring in supplementary materials / images / references if it is helpful. this is an exercise in literacy-building from multiple angles.
 
-as for where to find papers, i'd like to focus on AI/machine learning/deep learning, but this can encompass all aspects from math to social science to ethics to infrastructure to design... it's a broad field for sure. i've listed a few sources [here]({{ site.baseurl }}/readings#technical-reading-whitepapers). also, [arXiv](https://arxiv.org/) is a terrific repository of scientific papers - try searching for terms that interest you. ideally, we'll start with newer work: if the paper is older than 6 months or so, try to determine if newer work has been published that updates or revises the original publication.
+as for where to find papers, i'd like to focus on AI/machine learning/deep learning, but this can encompass all aspects from math to social science to ethics to infrastructure to design... it's a broad field for sure. i've listed a few sources [here](http://publicityreform.github.io/findbyimage/readings#technical-reading-whitepapers). also, [arXiv](https://arxiv.org/) is a terrific repository of scientific papers - try searching for terms that interest you. ideally, we'll start with newer work: if the paper is older than 6 months or so, try to determine if newer work has been published that updates or revises the original publication.
 
 # Assignment 4: Studio Project
 
@@ -110,7 +110,7 @@ The final form these collaborative projects take is completely up to the groups.
 
 In-class critiques at each stage can help guide the group to refine their initial proposal and working process, and to make full use of available resources.
 # Additional Course Materials and Readings
-Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here]({{ site.baseurl }}/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
+Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here](http://publicityreform.github.io/findbyimage/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
 
 # Grading:
 Grading will be determined as follows:
@@ -150,14 +150,14 @@ If you are going to be late or miss a class, please email before the start of cl
 * [Assignment 2: Everyday AI](#assignment-2-everyday-ai) (due 4/11 or 4/13)
 
 **Thurs April 6**
-* [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice]({{site.baseurl}}/Day-2-Notes.html) 
+* [Lecture / Discussion: Machine Learning in Art History - process / materials, pedagogy / practice](http://publicityreform.github.io/findbyimage/Day-2-Notes.html) 
 * [Lab: Using and Sharing via GitHub](https://publicityreform.github.io/findbyimage/how-to-use-github.html); Overview of software tools to be used in class; Using the course website and online resources
 * Read: [Gilbert Simondon _“Technical Mentality”_](/readings/simondon.pdf)
 * Read: [Friedrich Kittler _“There Is No Software”_](/readings/kittler.pdf)
 
 **Tues April 11**
 * Assignment 2: Everyday AI - presentations / critiques
-* [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets]({{site.baseurl}}/Day-3-Notes.html)
+* [Lab: Neural Network Zoo pt 1 - A comparative look at the variety of available nets](http://publicityreform.github.io/findbyimage/Day-3-Notes.html)
 * Read: [Hito Steyerl _“A Sea Of Data: Apophenia And Pattern (Mis-)Recognition”_](/readings/steyerl.pdf)
 * Read: [David Rumelhart _“The Architecture Of Mind: A Connectionist Approach”_](/readings/rumelhart.pdf)
 
@@ -167,21 +167,21 @@ If you are going to be late or miss a class, please email before the start of cl
 
 **Tues April 18**
 * [Assignment 2: Everyday AI](#assignment-2-everyday-ai) - presentations / critiques
-* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware]({{site.baseurl}}/Day-5-Notes.html)
+* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware](http://publicityreform.github.io/findbyimage/Day-5-Notes.html)
 * Read: [Donna Haraway _“A Cyborg Manifesto”_](/readings/haraway.pdf)
 * Read: [Jean-François Lyotard _“The Inhuman”_ (excerpts) Introduction: _“About The Human”_ & Ch 1. _“Can Thought Go On Without A Body?”_](/readings/simondon.pdf)
 
 **Thurs April 20**
-* [Lab: Optimizing, Filtering, Encoding - abstracting for usefulness]({{site.baseurl}}/Day-6-Notes.md)
+* [Lab: Optimizing, Filtering, Encoding - abstracting for usefulness](http://publicityreform.github.io/findbyimage/Day-6-Notes.md)
 * Read: [Anil Bawa-Cavia _"The Inclosure of Reason"_](http://technosphere-magazine.hkw.de/article1/6aefb210-0ee6-11e7-a253-d9923802c14e)
 
 **Tues April 25**
 * Assignment 3: White Paper presentation - group 1
-* [Lab: Word2Vec, T-sne - abstracting for usefulness part 2]({{site.baseurl}}/Day-7-Notes.md)
+* [Lab: Word2Vec, T-sne - abstracting for usefulness part 2](http://publicityreform.github.io/findbyimage/Day-7-Notes.md)
 
 **Thurs April 27**
 * Assignment 3: White Paper presentation - group 2 
-* [Lab: Convolutional Neural Networks]({{site.baseurl}}/Day-8-Notes.md)
+* [Lab: Convolutional Neural Networks](http://publicityreform.github.io/findbyimage/Day-8-Notes.md)
 
 **Tues May 2**
 * Assignment 4: Studio Project - preliminary presentations / critiques (groups 1-5)
