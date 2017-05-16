@@ -6,12 +6,12 @@ tags: [google cloud compute]
 categories: [howto]
 ---
 
-the goal of this tutorial is to set up a virutal machine on google cloud platform that runs tensorflow and jupyter notebook, then to clone a git repository and play with the code / train models /etc
+the goal of this tutorial is to set up a virutal machine (a cloud compute instance) on google cloud platform that runs tensorflow and jupyter notebook, then to clone a git repository into this instance so that you can run the included code / train models /etc
 
-based on a combination of these two different techniques: [1](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/
+the info below is partially based on a combination of these two different techniques: [1](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/
 ), [2](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd). also feel free to make use of google's extensive help docs [here](https://support.google.com/cloud/)
 
-if you would like to be added to the class project ("findbyimage"), email lee or luke to have a user created for you - by joining this project you can see and share virtual machines with the rest of the class, and you don't need to enter any credit card info.
+*note: if you would like to be added to the class project ("findbyimage"), email lee or luke to have a user created for you - by joining this project you can see and share virtual machines with the rest of the class, and you don't need to enter any credit card info.*
 
 alternatively, the following process should work the same if you would prefer to create your own projects + instances independently - follow the instructions for setting up a new account (you get 300 dollars credit to begin with, but will need to give credit card info). 
 
@@ -157,16 +157,10 @@ finally, open a browser window and go to `http://localhost:8888`. you should see
 
 if you get an error that you need a token, read the remote terminal output, you should see something like: `http://localhost:8888/?token=xxxxxxxxxxxxx` where `xxxxxxxxxxxxx` is the token - copy and paste that to launch the jupyter dashboard. 
 
+# build a project
 
-------
+while connected to your compute instance via `ssh`, use `git` to clone a repository from github into your home directory, or make your own python files (in a text editor, to be uploaded and run from the command line, or inside a new jupyter notebook). 
 
+# update or install any dependencies 
 
-to install docker on a cloud computer instance (running ubuntu):
-https://store.docker.com/editions/community/docker-ce-server-ubuntu
-
-in google cloud compute, load an instance as an “image” with ubuntu trusty, xenial, or yakkety pre-installed.
-
-
-
-
-
+you can always use `conda` or `pip` to install or update any dependencies your project requires.
