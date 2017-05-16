@@ -67,7 +67,7 @@ some possible questions to address in your presentation:
 
 walk us through the paper in detail. bring in supplementary materials / images / references if it is helpful. this is an exercise in literacy-building from multiple angles.
 
-as for where to find papers, i'd like to focus on AI/machine learning/deep learning, but this can encompass all aspects from math to social science to ethics to infrastructure to design... it's a broad field for sure. i've listed a few sources [here]({{site.baseurl}}/readings#technical-reading-whitepapers). also, [arXiv](https://arxiv.org/) is a terrific repository of scientific papers - try searching for terms that interest you. ideally, we'll start with newer work: if the paper is older than 6 months or so, try to determine if newer work has been published that updates or revises the original publication.
+as for where to find papers, i'd like to focus on AI/machine learning/deep learning, but this can encompass all aspects from math to social science to ethics to infrastructure to design... it's a broad field for sure. i've listed a few sources [here]({{ site.baseurl }}/readings#technical-reading-whitepapers). also, [arXiv](https://arxiv.org/) is a terrific repository of scientific papers - try searching for terms that interest you. ideally, we'll start with newer work: if the paper is older than 6 months or so, try to determine if newer work has been published that updates or revises the original publication.
 
 # Assignment 4: Studio Project
 
@@ -110,7 +110,7 @@ The final form these collaborative projects take is completely up to the groups.
 
 In-class critiques at each stage can help guide the group to refine their initial proposal and working process, and to make full use of available resources.
 # Additional Course Materials and Readings
-Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here]({{site.baseurl}}/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
+Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here]({{ site.baseurl }}/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
 
 # Grading:
 Grading will be determined as follows:
