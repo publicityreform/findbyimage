@@ -31,6 +31,10 @@ anaconda is a package manager for python that come with many popular python libr
 
 get the installer here (using anaconda2 (python 2):
 - `wget https://repo.continuum.io/archive/Anaconda2-4.3.1-Linux-x86_64.sh`
+update and upgrade and install bzip2 (compute instance doesn't have this already)
+- `sudo apt-get update`
+- `sudo apt-get upgrade`
+- `sudo apt-get install bzip2`
 then once the installer has finished copying:
 - `bash Anaconda2-4.3.1-Linux-x86_64.sh`
 
@@ -53,8 +57,10 @@ you can use anaconda to install whatever version of tensorflow works with your p
 
 # to move files back and forth from local machine, you can use scp or gcloud:
 
+to use gcloud in your local terminal [you have to install the sdk](https://cloud.google.com/sdk/downloads)
+
 for example:
-`gcloud compute copy-files nameofinstance:~/remotefilepath /localfilepath`
+`gcloud compute copy-files /localfilepath username@nameofinstance:~/remotefilepath`
 
 # set up ssh tunnel to view jupyter notebooks locally using a browser: 
 
