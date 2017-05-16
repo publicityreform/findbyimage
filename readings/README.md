@@ -28,6 +28,8 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 # theory / context:
 
+[Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
+
 [Hito Steyerl _"A Sea Of Data: Apophenia And Pattern (Mis-)Recognition"_](steyerl.pdf)
 
 [Gilbert Simondon _"Technical Mentality"_](simondon.pdf)
@@ -35,8 +37,6 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 [Friedrich Kittler _"There Is No Software"_](kittler.pdf)
 
 [David Rumelhart _"The Architecture Of Mind: A Connectionist Approach"_](Rumelhart.pdf)
-
-[Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
 
 [Donna Haraway _"A Cyborg Manifesto"_](haraway.pdf)
 
@@ -50,19 +50,35 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [Nora Khan _"Towards A Poetics Of Artificial Superintelligence"_](https://medium.com/after-us/towards-a-poetics-of-artificial-superintelligence-ebff11d2d249)
 
-[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_ (complete text)](engelbart.pdf) 
+[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_ ](engelbart.pdf) 
 
-[Douglas Engelbart _"Augmenting Human Intellect: A Conceptual Framework"_ (excerpt, with biographical notes)](engelbart-2.pdf) 
+[Andrej Karpathy _"The Unreasonable Effectiveness of Recurrent Neural Networks"_](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
+
+[Valentino Braitenberg _"Vehicles"_](braitenberg.pdf)
+
+[Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
+
+[Orit Halpern _"The Trauma Machine"_](halpern.pdf)
+
+[Jacques Lacan _"Cybernetics and Psychoanalysis"_](lacan.pdf)
+
+[Katherine Hayles _"Cognition Everywhere"_](hayles.pdf)
 
 [Paul Ryan _"The Earthscore Notational System"_](http://www.earthscore.org/themes.html)
 
 [Antoinette Rouvroy _"The End(s) Of Critique: Data-behaviourism vs. Due-process"_](rouvroy.pdf)
 
-[Matteo Pasquinelli _"Abnormal Encephalization In The Age Of Machine Learning"_](http://www.e-flux.com/journal/75/67133/abnormal-encephalization-in-the-age-of-machine-learning/)
+[Reza Negarestani _"An Outside View of Ourselves as a Toy Model AGI"_](negarestani.pdf)
 
-[Paulo Freire _"Pedagogy of the Oppressed"_ (Excerpt)](freire.pdf)
+[Paulo Freire _"Pedagogy of the Oppressed"_](freire.pdf)
 
-[_"The Shell"_ A Conversation between Isaa Samb and Antje Majewski](http://www.antjemajewski.de/2010/10/16/the-shell-a-conversation-between-issa-samb-and-antje-majewski-dakar-2010/)
+[Catharine Malabou _"What Should We Do With Our Brains?"_](malabou.pdf)
+
+Jacques Ranciere _"The Ignorant Schoolmaster"_
+
+[Stanislaw Lem _"Summa Technologia"_](lem.pdf)
+
+[Humberto Maturana + Francisco Varela _"Autopoiesis and Cognition"_](maturana+varela.pdf)
 
 [_"Animism"_ Exhibition Catalog](http://www.hkw.de/media/en/texte/pdf/2012_1/programm_5/animismus_booklet.pdf)
 
