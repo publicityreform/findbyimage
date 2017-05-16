@@ -75,5 +75,7 @@ If not in real-time, the project would likely be either documentation of interac
   - Generated script driving generated video
   - Generated video/imagery driving generated text
   - Generated script for human-made video
-  - Humans-written text training generated text inspiring human-written text
-
+  - Humans-written text training generated text inspiring human-written text  
+ 
+### Live Installation with Pre-rendered Media Proposals:
+  - Text to Speech narration of generated novel + word-based image generation / video generation 
