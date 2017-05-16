@@ -6,16 +6,31 @@ tags: [google cloud compute]
 categories: [howto]
 ---
 
-login or create account at
-[https://cloud.google.com/](https://cloud.google.com/)
-
-the goal is to set up a virutal machine that runs tensorflow and jupyter notebook, then to clone a git repository and play with the code / train models /etc
+the goal of this tutorial is to set up a virutal machine on google cloud platform that runs tensorflow and jupyter notebook, then to clone a git repository and play with the code / train models /etc
 
 based on a combination of these two [different](https://haroldsoh.com/2016/04/28/set-up-anaconda-ipython-tensorflow-julia-on-a-google-compute-engine-vm/
 ) [techniques](https://medium.com/google-cloud/running-jupyter-notebooks-on-gpu-on-google-cloud-d44f57d22dbd)
 
+if you would like to be added to the class project ("findbyimage"), email lee or luke to have a user created for you - by joining this project you can see and share virtual machines with the rest of the class, and you don't need to enter any credit card info.
 
-# to access the cloud compute instance remotely (from your local computer) you will need to use either ssh or gcloud.
+alternatively, the following process should work the same if you would prefer to create your own projects + instances independently - follow the instructions for setting up a new account (you get 300 dollars credit to begin with, but will need to give credit card info). 
+
+login or create account at
+[https://cloud.google.com/](https://cloud.google.com/)
+
+if you've already requested access to the class project, it should appear in the menu bar. clicking on this project will show you all of the virtual machine instances that have already been created. 
+
+each "instance" can be thought of as a reservation for processors. you specify the number of CPU's and GPU's you want to use, along with the size of persistent storage. the more processors and storage, the more the instance costs. you pay only when an instance has been started. 
+
+# to create a new instance
+
+from the main menu on the left-hand side, select `compute engine > VM instances`. click `create instance`. here you will need to specify the location of the instance (try `us-west1-a`) and the number of processors and size of storage (try 1 CPU and 3.75 GB to start with, you can edit to add more later if needed). 
+
+# very important! stop all instances as soon as you are done running them! 
+
+charges can pile up if the instance is left running accidentally - (especially if you've added many processors to the instance!)
+
+# to access / manage the cloud compute instance remotely (from your local computer) you will need to use either ssh or gcloud.
 
 first: generate a ssh key on your local computer:
 - `ssh-keygen -t rsa -f ~/.ssh/google_compute_engine -C username`
@@ -72,40 +87,12 @@ where 8888 is the port specified in jupyter.config
 ------
 
 
----------
-
 to install docker on a cloud computer instance (running ubuntu):
 https://store.docker.com/editions/community/docker-ce-server-ubuntu
 
 in google cloud compute, load an instance as an “image” with ubuntu trusty, xenial, or yakkety pre-installed.
 
-—————
 
-
-
-`sudo gcloud components update && gcloud components install beta`
-
-`gcloud beta compute regions describe us-east1`
-
-If the limit is <1.0, then please request an increase in the limit at https://console.cloud.google.com/compute/quotas . In my experience, Google has approved the request instantly.
-
-`~$ gcloud beta compute instances create gpu-deep-learner --machine-type n1-standard-2 --zone us-east1-d --accelerator type=nvidia-tesla-k80,count=1 --image-family ubuntu-1604-lts --image-project ubuntu-os-cloud --boot-disk-size 50GB --maintenance-policy TERMINATE --restart-on-failure`
-
-
-
-~$ curl -O http://developer.download.nvidia.com/compute/cuda/repos/ubuntu1604/x86_64/cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
-
-~$ sudo dpkg -i cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
-~$ sudo apt-get update
-~$ rm cuda-repo-ubuntu1604_8.0.61-1_amd64.deb
-~$ sudo apt-get install cuda -y
-
-~$ nvidia-smi
-
-~$ echo 'export CUDA_HOME=/usr/local/cuda' >> ~/.bashrc
-~$ echo 'export PATH=$PATH:$CUDA_HOME/bin' >> ~/.bashrc
-~$ echo 'export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:$CUDA_HOME/lib64' >> ~/.bashrc
-~$ source ~/.bashrc
 
 
 
