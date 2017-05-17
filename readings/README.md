@@ -26,6 +26,8 @@ ML ethics research: [www.fatml.org](http://www.fatml.org/)
 
 [artists and machine intelligence](https://medium.com/artists-and-machine-intelligence)
 
+[open AI](https://blog.openai.com)
+
 # theory / context:
 
 [Alan Turing _"Computing Machinery And Intelligence"_](http://www.loebner.net/Prizef/TuringArticle.html)
