@@ -78,4 +78,5 @@ If not in real-time, the project would likely be either documentation of interac
   - Humans-written text training generated text inspiring human-written text  
  
 ### Live Installation with Pre-rendered Media Proposals:
-  - Text to Speech narration of generated novel + word-based image generation / video generation 
+  - Text to Speech narration of generated novel + word-based image generation / video generation (Neural Storyteller + StackGAN)
+  - Google Deepdream + Neural Storyteller
