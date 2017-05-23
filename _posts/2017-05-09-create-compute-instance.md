@@ -147,7 +147,8 @@ where `~/` is your home directory, `localfilepath` is the rest of the path to th
 
 `jupyter` is included with anaconda. launch it from the remote command line (either in the browser, or while ssh'd in) by typing `jupyter notebook --no-browser` at the prompt. 
 
-next, create a tunnel to map the cloud compute instance's port 8888 to your local port 8888. from command line on your local computer, type: `$ ssh -i .ssh/google_compute_engine -L 8888:localhost:8888 <username>@<external ip of instance>` 
+next, create a tunnel to map the cloud compute instance's port 8888 to your local port 8888. from command line on your local computer, type: 
+- `ssh -i .ssh/google_compute_engine -L 8888:localhost:8888 yourusername@your-instance-external-ip` 
 
 *if you've already generated an ssh key pair (manually, or by launching `gcloud`) then you should be able to connect - if you get a `permission denied` error, you may need to confirm that these keys have been properly set up ([see above](#-to-access-your-cloud-compute-instances-remotely-from-your-computer-you-will-need-to-use-either-ssh-or-gcloud)*
 
