@@ -3,7 +3,7 @@ layout: post
 title:  "latent space"
 date:   2017-05-23 01:52:15 -0700
 tags: [latent space]
-categories: [notes]
+categories: [Notes]
 ---
 
 http://www.evolvingai.org/ppgn
