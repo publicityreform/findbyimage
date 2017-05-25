@@ -9,4 +9,6 @@ categories: [projects]
 
 # Sesquipedalian Words
 
+<iframe src="https://docs.google.com/presentation/d/1iOqe9eW22tpaG8xFFaxNkmKpECFcnxqTJKDriAYkiY8/embed?start=false&loop=false&delayms=3000" frameborder="0" width="960" height="569" allowfullscreen="true" mozallowfullscreen="true" webkitallowfullscreen="true"></iframe>
+
 [Link to our presentation here](https://docs.google.com/presentation/d/1iOqe9eW22tpaG8xFFaxNkmKpECFcnxqTJKDriAYkiY8/edit?usp=sharing)
