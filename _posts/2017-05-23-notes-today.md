@@ -6,9 +6,11 @@ tags: [latent space]
 categories: [Notes]
 ---
 
-http://www.evolvingai.org/ppgn
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ePUlJMtclcY?list=PL5278ezwmoxQEuFSbNzTMxM7McMIqx_HS" frameborder="0" allowfullscreen></iframe>
 
-http://vdumoulin.github.io/morphing_faces/online_demo.html
+video from ["plug and play generative networks: Conditional Iterative Generation of Images in Latent Space"](http://www.evolvingai.org/ppgn)
+
+[morphing faces online demo](http://vdumoulin.github.io/morphing_faces/online_demo.html)
 
 
 a super-interesting article from google’s magenta working group on using neural networks to synthesize (musical) audio: [https://magenta.tensorflow.org/nsynth-instrument](https://magenta.tensorflow.org/nsynth-instrument)
@@ -17,6 +19,8 @@ and this maybe even more interesting article (and corresponding [twitter-bot](ht
 
 
 using magenta’s port of sketch-rnn (in jupyter notebook)
+
+[explores a process of “teaching machines to draw” described here](https://research.googleblog.com/2017/04/teaching-machines-to-draw.html)
 
 install magenta environment (a toolkit built on top of tensorflow, specifically for “creative” tasks) following the instructions [here](https://github.com/tensorflow/magenta)
 
