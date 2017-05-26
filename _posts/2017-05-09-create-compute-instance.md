@@ -150,6 +150,10 @@ where `~/` is your home directory, `localfilepath` is the rest of the path to th
 next, create a tunnel to map the cloud compute instance's port 8888 to your local port 8888. from command line on your local computer, type: 
 - `ssh -i .ssh/google_compute_engine -L 8888:localhost:8888 yourusername@your-instance-external-ip` 
 
+if you are using **gcloud** to connect instead of **ssh** the command to set up a tunnel is slightly different:
+
+- `gcloud compute ssh name-of-your-instance -- -N -p 22 -D localhost:8888`
+
 *if you've already generated an ssh key pair (manually, or by launching `gcloud`) then you should be able to connect - if you get a `permission denied` error, you may need to confirm that these keys have been properly set up ([see above](#-to-access-your-cloud-compute-instances-remotely-from-your-computer-you-will-need-to-use-either-ssh-or-gcloud)*
 
 (note: 8888 is the default port used by jupyter. you can change it in `~/.jupyter/jupyter_notebook_config.py` if needed.)
