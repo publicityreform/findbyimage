@@ -108,6 +108,41 @@ Expectations:
 
 The final form these collaborative projects take is completely up to the groups. It can be one artwork made collaboratively, one prompt responded to in three different ways, three completely autonomous artworks that share a space, or two separate things with one intermediary, or a chain of processes (one person makes something for the next person to react to) - think expansively about what collaborating means here. 
 
+Final presentation of projects for this class should include the following components:
+
+- an explanation video 
+  - screen-capture with voiceover, or documentation, demo, etc
+  - uploaded to vimeo or youtube for easy sharing
+  - if you’d prefer to record this live in-class, please let us know! we will make arrangements
+- any code that you’ve made use of, uploaded to a folder within the [project_code](https://github.com/publicityreform/findbyimage/tree/master/project_code) directory in the class repository, with a `README` file that provides:
+  - attribution for any code copied or modified from another source
+  - any instructions for building or launching the project from the source code
+  - any links to datasets or trained models too big to host on github
+- a post on the class blog that includes:
+  - a written explanation of the project
+  - links to the corresponding **proposal** and **proof-of-concept** posts
+  - supporting documentation (images, sounds, video, etc)
+  - footnotes for white papers or other texts, artworks, code repositories—any IP used or referred to in the making of your project
+
+final presentation of the projects will be evaluated based on:
+
+- a demonstrated consideration of / relationship to the project’s context
+  - themes, concepts, problems or ideas inherent to machine learning / AI
+  - research being done in the field of machine learning / AI
+  - the history of art, i.e. other artworks, concepts and theories of art
+- legibility
+  - clear articulation of intent, process
+  - ability to form essential questions that drive your project
+  - when obfuscation is used, it is used artfully, to add value and/or surprise
+- effort / work
+  - evidence of collaboration
+  - evidence of original thought
+- resourcefulness
+  - leveraging skills or resources you already had to work on new problems
+  - ability to search out solutions or workarounds
+- experimentation
+  - risk, surprise, failure, variation, and unanswered questions can add value as well
+
 In-class critiques at each stage can help guide the group to refine their initial proposal and working process, and to make full use of available resources.
 # Additional Course Materials and Readings
 Throughout the course we will be reading and discussing critical texts, poetry, and speculative fiction, as well as looking at artwork for contextual and comparative examples. Students will be expected to apply an understanding of these materials in project critiques. A [reading list can be found here](http://publicityreform.github.io/findbyimage/readings/). A range of additional resources for learning more about machine learning - online courses, tutorials etc. as well as API's, frameworks, and projects of interest are collected [here](/resources.md), and we may make reference to them occasionally as needed.
@@ -167,7 +202,7 @@ If you are going to be late or miss a class, please email before the start of cl
 
 **Tues April 18**
 * [Assignment 2: Everyday AI](#assignment-2-everyday-ai) - presentations / critiques
-* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware](http://publicityreform.github.io/findbyimage/Day-5-Notes.html)
+* [Lab: Other Inputs and Outputs - connecting to creative coding platforms, sensors and hardware using Wekinator](http://publicityreform.github.io/findbyimage/Day-5-Notes.html)
 * Read: [Donna Haraway _“A Cyborg Manifesto”_](/readings/haraway.pdf)
 * Read: [Jean-François Lyotard _“The Inhuman”_ (excerpts) Introduction: _“About The Human”_ & Ch 1. _“Can Thought Go On Without A Body?”_](/readings/simondon.pdf)
 
@@ -197,7 +232,7 @@ If you are going to be late or miss a class, please email before the start of cl
 **Thurs May 11**
 * Assignment 3: White Paper presentation - group 3
 * Assignment 3: White Paper presentation - group 4 
-* Lab: TBD
+* Lab: RNN's continued, plus Wekinator revisited
 * Read: [Valentino Braitenberg _"Vehicles"_ (excerpt)](https://github.com/publicityreform/findbyimage/blob/master/readings/braitenberg.pdf)
 * Read: [Matteo Pasquinelli  _"Abnormal Encephalization in the Age of Machine Learning"_](https://github.com/publicityreform/findbyimage/blob/master/readings/pasquinelli.pdf)
 
@@ -207,33 +242,31 @@ If you are going to be late or miss a class, please email before the start of cl
 **Thurs May 18**
 * Assignment 4: Studio Project - proof of concept presentations (groups 6-9)
 * Read: [Orit Halpern _"The Trauma Machine"_](https://github.com/publicityreform/findbyimage/blob/master/readings/halpern.pdf)
-* Read: [Jacques Lacan _"Psychoanalysis and Cybernetics"_](https://github.com/publicityreform/findbyimage/blob/master/readings/lacan.pdf)
+* Read (extra): [Jacques Lacan _"Psychoanalysis and Cybernetics"_](https://github.com/publicityreform/findbyimage/blob/master/readings/lacan.pdf)
 * Read (extra): [Reza Negarestani _"An Outside View of Ourselves as a Toy Model AGI"_](https://github.com/publicityreform/findbyimage/blob/master/readings/negarestani.pdf)
 
 **Tues May 23**
 * Assignment 3: White Paper presentation - group 5
 * Assignment 3: White Paper presentation - group 6
-* Lab: TBD
+* Lab: Latent Space - peeking into hidden layers
 
 **Thurs May 25**
 * Assignment 3: White Paper presentation - group 7
-* Lab: TBD
-* Read: [Katherine Hayles _"Cognition everywhere"_](https://github.com/publicityreform/findbyimage/blob/master/readings/hayles.pdf)
-* Read: [Antoinette Rouvroy _"The Ends Of Critique: Data-Behaviourism vs Due-Process"_](https://github.com/publicityreform/findbyimage/blob/master/readings/rouvroy.pdf)
+* Lab: Style Transfer
 * Read: [Paul Ryan _"Earthscore Notational System"_](http://www.earthscore.org/themes.html)
-* Read (extra): [Stanislav Lem _"Summa Technologiae"_](https://github.com/publicityreform/findbyimage/blob/master/readings/lem.pdf)
-
 
 **Tues May 30**
 * Assignment 3: White Paper presentation - group 8
 * Lab: work on studio projects
-* Read: [Paulo Freire _"Pedagogy of the Oppressed"_ (Chapter 3)](https://github.com/publicityreform/findbyimage/blob/master/readings/freire.pdf
-* Read: [Jacques Ranciere _"The Ignorant Schoolmaster"_ (excerpt)]
-
+* Read: [Katherine Hayles _"Cognition everywhere"_](https://github.com/publicityreform/findbyimage/blob/master/readings/hayles.pdf)
+* Read: [Antoinette Rouvroy _"The Ends Of Critique: Data-Behaviourism vs Due-Process"_](https://github.com/publicityreform/findbyimage/blob/master/readings/rouvroy.pdf)
+* Read (extra): [Stanislav Lem _"Summa Technologiae"_](https://github.com/publicityreform/findbyimage/blob/master/readings/lem.pdf)
 
 **Thurs June 1**
 * Assignment 3: White Paper presentation - group 9
 * Lab: work on studio projects
+* Read: [Paulo Freire _"Pedagogy of the Oppressed"_ (Chapter 3)](https://github.com/publicityreform/findbyimage/blob/master/readings/freire.pdf
+* Read: [Jacques Ranciere _"The Ignorant Schoolmaster"_ (excerpt)]
 
 **Tues June 6**
 * Assignment 4: Studio Project - Final presentations / critiques (groups 1-5)
