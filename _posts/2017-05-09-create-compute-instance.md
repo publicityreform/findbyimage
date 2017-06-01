@@ -69,6 +69,22 @@ once installation is finished, type:
 
 to enable using anaconda (using the command `conda`)
 
+## Check to make sure Anaconda runs
+
+Test that anaconda runs. ```conda --version``` 
+
+If it doesn't run, it may be because anaconda was not added to the PATH properly (i.e. it can't figure out how to launch Anaconda)
+
+If so, you can manually add Anaconda to the PATH (PATH lists the location of software)
+```
+export PATH="/home/yourUserName/anaconda2/bin:$PATH"
+```
+Now you can run 
+
+- `source ~/.bashrc`
+
+Note: in the line beginning `export` you need to list the proper path to the directory anaconda2
+
 # install tensorflow
 
 you can use anaconda to install whatever version of tensorflow works with your project. some older repositories may require an earlier version - in the case of sketch-rnn i found this version of tensorflow (0.8) to work ok:
