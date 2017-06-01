@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Group 9 Whitepaper"
+title:  "Group9 Whitepaper"
 date:   2017-06-01 04:58:30 -0700
 tags: [Github, jekyll]
 categories: [projects]
