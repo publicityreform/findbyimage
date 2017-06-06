@@ -18,12 +18,16 @@ Using the intuitive pattern recognition skills that have developed and evolved o
 
 Feeding refined and intentional image data through many layers of a Convolutional Neural Network, via TensorFlow, we have created a series of images and titles, given by our machine, in attempt to invoke human psychological phenomena through code.
 
+
+![alt text](https://raw.githubusercontent.com/tensorflow/models/master/inception/g3doc/inception_v3_architecture.png)
+TensorFlow Inception model for ImageNet
 [Proposal](https://publicityreform.github.io/findbyimage/interpreting-clouds.html)
 
 [Proof of Concept](https://publicityreform.github.io/findbyimage/interpreting-proof.html)
 
-![alt text](https://s3-us-west-1.amazonaws.com/zoeingramsite/c_5.jpg)
+[Model](https://github.com/tensorflow/models/tree/master/inception)
 
+![alt text](https://s3-us-west-1.amazonaws.com/zoeingramsite/c_5.jpg)
 
 
 #### Image Description Data
