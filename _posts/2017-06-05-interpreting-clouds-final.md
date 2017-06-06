@@ -21,6 +21,7 @@ Feeding refined and intentional image data through many layers of a Convolutiona
 
 ![alt text](https://raw.githubusercontent.com/tensorflow/models/master/inception/g3doc/inception_v3_architecture.png)
 TensorFlow Inception model for ImageNet
+
 [Proposal](https://publicityreform.github.io/findbyimage/interpreting-clouds.html)
 
 [Proof of Concept](https://publicityreform.github.io/findbyimage/interpreting-proof.html)
