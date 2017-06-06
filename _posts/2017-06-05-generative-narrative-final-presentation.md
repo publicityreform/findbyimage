@@ -62,7 +62,7 @@ Curation of passages from original chain of text, produced by Word-RNN:
 Excerpts:  
   - "In other words, I learned about what isn't. But she was such serious pain. My heart would throb."
   - "I have experienced no moral obligations."
-  - "Can your shadow come back here? I same some place. In this Town, the Gatekeeper will bring the seat for full men in a race about those things."
+  - "Can your shadow come back here? I swam some place. In this Town, the Gatekeeper will bring the seat for full men in a race about those things."
   - "Fine, he said. He had his reason for his purpose with her studies, of this violent channel, the girls who were started constantly in the world of interest."
   - "She could hear the touch of Tengo's consciousness, a huge, shot recorder and the occasional night-transport truck."
 
