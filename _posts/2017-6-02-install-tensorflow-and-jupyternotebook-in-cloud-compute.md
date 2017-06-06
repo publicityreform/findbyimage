@@ -58,5 +58,5 @@ source ~/.bashrc
 Try running Jupyter notebook
 
 ```
-juypter notebook --no-browser
+jupyter notebook --no-browser
 ```
