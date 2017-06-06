@@ -38,7 +38,7 @@ In order to avoid simply trying to emulate a singular work or author, we compile
 
 ### Process
 #### Word-RNN
-Using the tensorflow version of Word-RNN, we sampled for text during different checkpoints to track the progress of the model, keeping primetext and other hyperparameters consistent. After the model was finished training, text was generated and used for priming another generation, which was used for priming another generation...and so on, for seven cycles.
+Using the tensorflow version of Word-RNN, we sampled for text during different checkpoints to track the progress of the model, keeping primetext and other hyperparameters consistent. After the model was finished training, text was generated and used for priming another generation, which was used for priming another generation...and so on, for seven cycles / chains.
 
 #### ConvNetJS – Image Painting 
 ![A screencapture of the original image next to the generated image](assets/a-r-t-folder/5.PNG)  
@@ -61,7 +61,7 @@ We processed our results with butterflow, in an attempt to exploit and discover 
 
 
 #### Interpolated Narrative  
-<iframe src="https://player.vimeo.com/video/220438705?title=0&byline=0&portrait=0" width="905" height="521" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+<iframe src="https://player.vimeo.com/video/220438705?title=0&byline=0&portrait=0" width="640" height="369" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
 By interpolating between samples from different checkpoints to obfuscate the text on a visual and surface level, we intended to bring attention to the algorithmic nature of the constructed narrative. 
 
 
