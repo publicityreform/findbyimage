@@ -58,7 +58,7 @@ We processed our results with butterflow, in an attempt to exploit and discover 
 
 #### Written Narrative  
 Curation of passages from original chain of text, produced by Word-RNN:  
-![A page of written text generated from Word-RNN](assets/a-r-t-folder/editingWordRNN.png)   
+![A page of written text generated from Word-RNN](assets/a-r-t-folder/editingWordRNN-2.png)   
 Excerpts:  
   - "In other words, I learned about what isn't. But she was such serious pain. My heart would throb."
   - "I have experienced no moral obligations."
