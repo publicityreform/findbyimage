@@ -49,12 +49,6 @@ We processed our results with butterflow, in an attempt to exploit and discover 
 
 
 ### Results  
-#### Painted Narrative  
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n1.gif)
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n2.gif)
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n3_1.gif)
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n4.gif)
-
 
 #### Written Narrative  
 Curation of passages from original chain of text, produced by Word-RNN:  
@@ -65,6 +59,16 @@ Excerpts:
   - "Can your shadow come back here? I swam some place. In this Town, the Gatekeeper will bring the seat for full men in a race about those things."
   - "Fine, he said. He had his reason for his purpose with her studies, of this violent channel, the girls who were started constantly in the world of interest."
   - "She could hear the touch of Tengo's consciousness, a huge, shot recorder and the occasional night-transport truck."
+
+#### Painted Narrative  
+![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n1.gif) 
+![A moving abstraction generated from ConvNetJS and processed with butterflow](assets/a-r-t-folder/n1_40sec.gif)   
+![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n2.gif) 
+![A moving abstraction generated from ConvNetJS and processed with butterflow](assets/a-r-t-folder/n2_33sec_artifacts.gif)   
+![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n3_1.gif) 
+![A moving abstraction generated from ConvNetJS and processed with butterflow](assets/a-r-t-folder/n3_48sec_artifacts.gif) 
+
+
 
 #### Interpolated Narrative  
 <iframe src="https://player.vimeo.com/video/220438705?title=0&byline=0&portrait=0" width="640" height="369" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
