@@ -26,7 +26,7 @@ Feeding refined and intentional image data through many layers of a Convolutiona
 
 
 
-####Image Description Data  
+####Image Description Data, Labeled by TensorFlow
 
 c_1.jpg     
 alp (score = 0.13540)
