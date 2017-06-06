@@ -9,7 +9,9 @@ categories: [projects]
 # Generative Narrative
 by Tyler Yin, Reginald Lin, Annie Yu  
 
-To explore how machine learning might be used to generate narratives in the context of art-making, we experimented with several different neural networks to produce text and moving imagery. 
+To explore how machine learning might be used to generate narratives in the context of art-making, we experimented with several different neural networks to produce stories in the form of text and moving imagery. 
+
+
 
 
 ## Resources
@@ -31,7 +33,7 @@ For more context on this project, go to these iterations:
   
   
 ## Training Data  
-In order to avoid simply trying to emulate a singular work or author, we compiled text from a variety of sources, including novels written by Haruki Murakami, Joseph Conrad, and Albert Camus. For access to the text, refer [here](assets/a-r-t-folder/fpn.txt).
+In order to avoid simply trying to emulate a singular work or author, we compiled text from a variety of sources, including novels written by Haruki Murakami, Joseph Conrad, and Albert Camus. For access to the text, refer [here](findbyimage/assets/a-r-t-folder/fpn.txt).
 
 
 ## Process
@@ -48,14 +50,14 @@ We processed our results with butterflow, in an attempt to exploit and discover 
 
 ## Results  
 ### Painted Narrative  
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n1.gif)
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n2.gif)
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n3_1.gif)
-![A moving abstraction generated from ConvNetJS](assets/a-r-t-folder/n4.gif)
+![A moving abstraction generated from ConvNetJS](findbyimage/assets/a-r-t-folder/n1.gif)
+![A moving abstraction generated from ConvNetJS](findbyimage/assets/a-r-t-folder/n2.gif)
+![A moving abstraction generated from ConvNetJS](findbyimage/assets/a-r-t-folder/n3_1.gif)
+![A moving abstraction generated from ConvNetJS](findbyimage/assets/a-r-t-folder/n4.gif)
 
 
 ### Written Narrative  
-![A page of written text generated from Word-RNN](assets/a-r-t-folder/word-rnn-cycle.png)  
+![A page of written text generated from Word-RNN](findbyimage/assets/a-r-t-folder/word-rnn-cycle.png)  
 
 
 ### Interpolated Narrative  
