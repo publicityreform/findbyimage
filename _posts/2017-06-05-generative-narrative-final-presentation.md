@@ -57,8 +57,14 @@ We processed our results with butterflow, in an attempt to exploit and discover 
 
 
 #### Written Narrative  
-![A page of written text generated from Word-RNN](assets/a-r-t-folder/word-rnn-cycle.png)  
-
+Curation of passages from original chain of text, produced by Word-RNN:  
+![A page of written text generated from Word-RNN](assets/a-r-t-folder/editingWordRNN-2.png)   
+Excerpts:  
+  - "In other words, I learned about what isn't. But she was such serious pain. My heart would throb."
+  - "I have experienced no moral obligations."
+  - "Can your shadow come back here? I same some place. In this Town, the Gatekeeper will bring the seat for full men in a race about those things."
+  - "Fine, he said. He had his reason for his purpose with her studies, of this violent channel, the girls who were started constantly in the world of interest."
+  - "She could hear the touch of Tengo's consciousness, a huge, shot recorder and the occasional night-transport truck."
 
 #### Interpolated Narrative  
 <iframe src="https://player.vimeo.com/video/220438705?title=0&byline=0&portrait=0" width="640" height="369" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
