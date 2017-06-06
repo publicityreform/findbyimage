@@ -61,8 +61,8 @@ We processed our results with butterflow, in an attempt to exploit and discover 
 
 
 #### Interpolated Narrative  
-[Video]  
-The effect was intended to call attention to the algorithmic nature of the constructed narrative.
+<iframe src="https://player.vimeo.com/video/220438705?title=0&byline=0&portrait=0" width="905" height="521" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>  
+By interpolating between samples from different checkpoints to obfuscate the text on a visual and surface level, we intended to bring attention to the algorithmic nature of the constructed narrative. 
 
 
 ### Issues  
