@@ -9,17 +9,22 @@ categories: [howto]
 # Setting up Jupyter Notebook inside a Google Cloud Compute instance
 
 ## Create cloud compute instance
-Info [here](https://publicityreform.github.io/findbyimage/create-compute-instance.html)  
+Try the following settings: 
 
-#### install pip (upgraded one) and numpy
+- zone: US-West-1-b
+- machine: 8 vCPU's with 52 GB memory
+- boot disk: Ubuntu 14.04 with 200 GB persistent memory
 
-```
-sudo apt-get install python-dev #this will install numpy
-sudo apt-get install python-pip
-sudo pip install -U pip
-```
+(See overview / more detailed instructions on this [here](https://publicityreform.github.io/findbyimage/create-compute-instance.html))
 
-Run ```pip list``` to see what you already have
+
+#### install pip, and python-dev package
+
+`sudo apt-get install python-pip python-dev`
+
+(hit enter / type Y when prompted)
+
+`sudo pip install -U pip`
 
 #### Install tensorflow
 
@@ -29,9 +34,12 @@ At this link, look for section Ubuntu > Installing with native pip
 python 2.7 CPU only
 (or if doing gpu follow that one)
 
+install the latest version of tensorflow by grabbing the link from [here](https://www.tensorflow.org/install/install_linux#TF_PYTHON_URL)
+(we're assuming python 2.7, CPU only) 
+
 ```sudo pip install --upgrade longurlfromthearticleabove```
 
-##### Now install git and tensorflow
+##### Now install git and clone the tensorflow repository
 
 ```
 sudo apt-get install git
@@ -49,14 +57,8 @@ git clone https://github.com/tensorflow/tensorflow.git
 sudo pip install jupyter
 ```
 
-Reload bashrc
-
-```
-source ~/.bashrc
-```
-
 Try running Jupyter notebook
 
 ```
-jupyter notebook --no-browser
+jupyter notebook --no-browser --allow-root
 ```
