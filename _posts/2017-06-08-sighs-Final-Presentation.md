@@ -33,10 +33,10 @@ Our parameters in the Mechanical Turk Request:
 
 2. Wekinator to train the model 
 Utilized wekinator to record the audios to train the model. 
-![Image of Wekinator and Data Training]() 
+![Image of Wekinator and Data Training](http://diversity.p5js.org/sighs6.png) 
 
 3. Processing to showcase the output. 
-![Image of Processing output]() 
+![Image of Processing output](http://diversity.p5js.org/sighs5.png) 
 
 
 ## Generate
@@ -47,6 +47,7 @@ When given a word, it links the word to the closest characteristic (dismay, diss
 ![word2vec jupyter image](http://diversity.p5js.org/sigh2.png)
 ![word2vec jupyter image](http://diversity.p5js.org/sigh3.png)
 ![word2vec jupyter image](http://diversity.p5js.org/sigh4.png)
+![word2vec jupyter image](http://diversity.p5js.org/sigh7.png)
 
 ## Footnotes
 
