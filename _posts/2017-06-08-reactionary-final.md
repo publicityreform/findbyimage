@@ -31,7 +31,7 @@ Trained Pix2Pix on dataset, made new videos and used those to generate new react
 ## Training
 Trained six different times with slight changes to the dataset between each training. Models were trained on a Google Cloud computer with 32 vCPUS and 128 GB of RAM. Training took roughly 3 days for each model.
 
-![image of training progress](../assets/stalgia_train_image.png)
+![image of training progress](../assets/stalgia_training_image.png)
 
 ## Output
 I made a series of videos and then generated reactions to them using the model. The final results were composed into a single-channel looping video piece along with a stream-of-consciousness text that I wrote that addresses several of the themes.
