@@ -69,6 +69,22 @@ once installation is finished, type:
 
 to enable using anaconda (using the command `conda`)
 
+## Check to make sure Anaconda runs
+
+Test that anaconda runs. ```conda --version``` 
+
+If it doesn't run, it may be because anaconda was not added to the PATH properly (i.e. it can't figure out how to launch Anaconda)
+
+If so, you can manually add Anaconda to the PATH (PATH lists the location of software)
+```
+export PATH="/home/yourUserName/anaconda2/bin:$PATH"
+```
+Now you can run 
+
+- `source ~/.bashrc`
+
+Note: in the line beginning `export` you need to list the proper path to the directory anaconda2
+
 # install tensorflow
 
 you can use anaconda to install whatever version of tensorflow works with your project. some older repositories may require an earlier version - in the case of sketch-rnn i found this version of tensorflow (0.8) to work ok:
@@ -149,6 +165,10 @@ where `~/` is your home directory, `localfilepath` is the rest of the path to th
 
 next, create a tunnel to map the cloud compute instance's port 8888 to your local port 8888. from command line on your local computer, type: 
 - `ssh -i .ssh/google_compute_engine -L 8888:localhost:8888 yourusername@your-instance-external-ip` 
+
+if you are using **gcloud** to connect instead of **ssh** the command to set up a tunnel is slightly different:
+
+- `gcloud compute ssh name-of-your-instance -- -N -p 22 -D localhost:8888`
 
 *if you've already generated an ssh key pair (manually, or by launching `gcloud`) then you should be able to connect - if you get a `permission denied` error, you may need to confirm that these keys have been properly set up ([see above](#-to-access-your-cloud-compute-instances-remotely-from-your-computer-you-will-need-to-use-either-ssh-or-gcloud)*
 

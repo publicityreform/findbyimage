@@ -129,6 +129,7 @@ some of these are paid services where you need to create an account. for these p
 * [TU Berlin sketch database (vector graphics or bitmap)](http://cybertron.cg.tu-berlin.de/eitz/projects/classifysketch/)
 * [small text copora](https://github.com/dariusk/corpora)
 * [drug experiences](https://archive.org/details/erowid-experiences-corpus)
+* [cityscapes](https://www.cityscapes-dataset.com/)
   
 # pre-trained models:
 * [caffe model zoo](https://github.com/BVLC/caffe/wiki/Model-Zoo)
