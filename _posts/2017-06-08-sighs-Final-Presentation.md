@@ -26,7 +26,7 @@ Our parameters in the Mechanical Turk Request:
 
 ![Mechanical Turk Parameters Image](http://diversity.p5js.org/sigh.png)
 
-* [Listen to some of the crowdsourced sighs here](https://vimeo.com//220874421)
+* [Listen to some of the crowdsourced sighs here](https://drive.google.com/drive/folders/0B7TIlH6CR6CZQ3NNZUJlckJ1azQ?usp=sharing)
 
 ## Define
 1. Open Frameworks to retrieve the audio data.
@@ -43,10 +43,15 @@ Utilized wekinator to record the audios to train the model.
 Utilized Word2Vec and t-SNE Word embeddings. 
 When given a word, it links the word to the closest characteristic (dismay, dissatisfaction, boredom, futility, relief, love lorn) and plays an audio snippets of the respective characteristic. 
 
+This is a screenshot of the audio sample folder:
 ![word2vec jupyter image](http://diversity.p5js.org/sigh1.png)
+
+Utilizing Jupyter to train the model:
 ![word2vec jupyter image](http://diversity.p5js.org/sigh2.png)
 ![word2vec jupyter image](http://diversity.p5js.org/sigh3.png)
 ![word2vec jupyter image](http://diversity.p5js.org/sigh4.png)
+
+These are the trained text:
 ![word2vec jupyter image](http://diversity.p5js.org/sigh7.png)
 
 ## Footnotes
