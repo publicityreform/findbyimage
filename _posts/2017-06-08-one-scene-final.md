@@ -63,3 +63,8 @@ which determined each object's:
 [![youtube video](https://img.youtube.com/vi/zwdh9L1OKEc/0.jpg))](https://youtu.be/zwdh9L1OKEc)
 
 Best record?
+
+## Contribution
+* Sarah: sound + training + documentation
+* Alice: python + Unity + documentation
+* Eric: Unity + VR + visuals
