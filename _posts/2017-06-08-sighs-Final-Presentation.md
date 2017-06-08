@@ -53,6 +53,7 @@ Utilizing Jupyter to train the model:
 
 These are the trained text:
 ![word2vec jupyter image](http://diversity.p5js.org/sigh7.png)
+![word2vec jupyter image](http://diversity.p5js.org/sigh8.png)
 
 ## Footnotes
 
