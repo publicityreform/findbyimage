@@ -10,7 +10,7 @@ categories: [projects]
 # Final Documentation: One Scene
 ##### Group 9 - Sarah, Alice and Eric
 
-![youtube video](https://youtu.be/zwdh9L1OKEc)
+[![youtube video](https://img.youtube.com/vi/zwdh9L1OKEc/0.jpg))](https://youtu.be/zwdh9L1OKEc)
 
 ## Concept:
 Neural network system as a submissive-responsive controller of the virtual space
@@ -19,16 +19,21 @@ Neural network system as a submissive-responsive controller of the virtual space
 * Machine trying to maximize the time the user stay in the VR environment
 
 ## Model
-Deep Q Learning (Recurrent NN)
-
+Deep Q Learning
 https://github.com/keon/deep-q-learning
+
 Reinforcement learning in python: Theano + Keras
-Source code originally written for playing CartPole game in OpenAI Gym https://gym.openai.com/envs/CartPole-v1
-![cartpole animation](https://gym.openai.com/evaluations/eval_RrBNqWekTmGLCnEkETNIyw)
+
+Source code originally written for playing CartPole game on OpenAI Gym
+
+https://gym.openai.com/envs/CartPole-v1
+
+![cartpole animation](https://keon.io/images/deep-q-learning/animation.gif)
+
 “A pole is attached by an un-actuated joint to a cart, which moves along a frictionless track”
 
 ## Methods
-We replaced CartPole game with our Unity system
+We replaced CartPole game with our Unity VR system
 
 #### Input
 * Form: head direction (coordinate in 3d-space), head movement (acceleration data)
@@ -54,5 +59,7 @@ which determined each object's:
 * angular orientation
 
 ## Results
-![youtube video](https://youtu.be/zwdh9L1OKEc)
+
+[![youtube video](https://img.youtube.com/vi/zwdh9L1OKEc/0.jpg))](https://youtu.be/zwdh9L1OKEc)
+
 Best record?
