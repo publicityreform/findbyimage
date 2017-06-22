@@ -136,6 +136,8 @@ some of these are paid services where you need to create an account. for these p
 * [VGG very deep convnet models](http://www.robots.ox.ac.uk/~vgg/research/very_deep/)
 
 # courses and other online resources
+* [daniel shiffman's "intelligence and learning" course](https://github.com/shiffman/NOC-S17-2-Intelligence-Learning)
+* [matteo pasquinelli](http://matteopasquinelli.com/teaching/) has been teaching a few ML-specific critical theory / philosophy courses
 * [ml4a.github.io](https://ml4a.github.io/)
 * [Francis Tseng's Machine Learning 101](https://github.com/frnsys/ml101)
 * [kadenze.com/courses/machine-learning-for-musicians-and-artists](https://www.kadenze.com/courses/machine-learning-for-musicians-and-artists-v/info)
