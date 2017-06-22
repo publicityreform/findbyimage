@@ -107,4 +107,6 @@ Jacques Ranciere _"The Ignorant Schoolmaster"_
 
 [artsec bibliography](https://docs.google.com/document/d/1pIzAObj4aYdRBtgS0MTTW73suGmAUqUQk2_gYwyn2To/edit#heading=h.kc6lw6pxuhrt)
 
+# also check [these other courses](https://publicityreform.github.io/findbyimage/resources/#courses-and-other-online-resources) for lecture notes, reading lists, and more
+
 
